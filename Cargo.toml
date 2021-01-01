@@ -1,0 +1,17 @@
+[package]
+name = "Mining_Planning_Engine"
+version = "0.1.0"
+authors = ["Yair Camborda Morocho"]
+edition = "2018"
+
+[dependencies]
+amethyst = {version = "0.15.3", features = ["no-slow-safety-checks"]}
+amethyst-imgui = { version = "0.7.1", features = ["vulkan"] }
+log = { version = "0.4.8", features = ["serde"] }
+dxf = "0.4.0"
+
+[features]
+default = ["vulkan"]
+empty = ["amethyst/empty"]
+metal = ["amethyst/metal"]
+vulkan = ["amethyst/vulkan"]
