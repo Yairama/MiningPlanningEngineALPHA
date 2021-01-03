@@ -1,0 +1,16190 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1021
+  9
+$ACADMAINTVER
+ 70
+    50
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$LASTSAVEDBY
+  1
+JUANC
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$EXTMAX
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     1
+  9
+$DIMTOH
+ 70
+     1
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     0
+  9
+$DIMZIN
+ 70
+     0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     0
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+Standard
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     1
+  9
+$DIMTZIN
+ 70
+     0
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     4
+  9
+$DIMTDEC
+ 70
+     4
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     2
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    46
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$DIMFXL
+ 40
+1.0
+  9
+$DIMFXLON
+ 70
+     0
+  9
+$DIMJOGANG
+ 40
+0.7853981633974483
+  9
+$DIMTFILL
+ 70
+     0
+  9
+$DIMTFILLCLR
+ 70
+     0
+  9
+$DIMARCSYM
+ 70
+     0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.5
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.5
+  9
+$CHAMFERB
+ 40
+0.5
+  9
+$CHAMFERC
+ 40
+1.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2457407.437819433
+  9
+$TDUCREATE
+ 40
+2457407.646152766
+  9
+$TDUPDATE
+ 40
+2457407.465260683
+  9
+$TDUUPDATE
+ 40
+2457407.673594016
+  9
+$TDINDWG
+ 40
+0.0251142708
+  9
+$TDUSRTIMER
+ 40
+0.0251141088
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+76
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+1.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     0
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     2
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{A5A0F605-F88C-4135-BA57-4AAB8096DB86}
+  9
+$VERSIONGUID
+  2
+{95DE8915-5653-4F8F-8EAB-C7388915767E}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  9
+$SORTENTS
+280
+   127
+  9
+$INDEXCTL
+280
+     0
+  9
+$HIDETEXT
+280
+     1
+  9
+$XCLIPFRAME
+290
+     0
+  9
+$HALOGAP
+280
+     0
+  9
+$OBSCOLOR
+ 70
+   257
+  9
+$OBSLTYPE
+280
+     0
+  9
+$INTERSECTIONDISPLAY
+280
+     0
+  9
+$INTERSECTIONCOLOR
+ 70
+   257
+  9
+$DIMASSOC
+280
+     2
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+     0
+  9
+$LENSLENGTH
+ 40
+50.0
+  9
+$CAMERAHEIGHT
+ 40
+0.0
+  9
+$STEPSPERSEC
+ 40
+2.0
+  9
+$STEPSIZE
+ 40
+6.0
+  9
+$3DDWFPREC
+ 40
+2.0
+  9
+$PSOLWIDTH
+ 40
+0.25
+  9
+$PSOLHEIGHT
+ 40
+4.0
+  9
+$LOFTANG1
+ 40
+1.570796326794897
+  9
+$LOFTANG2
+ 40
+1.570796326794897
+  9
+$LOFTMAG1
+ 40
+0.0
+  9
+$LOFTMAG2
+ 40
+0.0
+  9
+$LOFTPARAM
+ 70
+     7
+  9
+$LOFTNORMALS
+280
+     1
+  9
+$LATITUDE
+ 40
+37.795
+  9
+$LONGITUDE
+ 40
+-122.394
+  9
+$NORTHDIRECTION
+ 40
+0.0
+  9
+$TIMEZONE
+ 70
+ -8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+     1
+  9
+$TILEMODELIGHTSYNCH
+280
+     1
+  9
+$CMATERIAL
+347
+48
+  9
+$SOLIDHIST
+280
+     1
+  9
+$SHOWHIST
+280
+     1
+  9
+$DWFFRAME
+280
+     2
+  9
+$DGNFRAME
+280
+     2
+  9
+$REALWORLDSCALE
+290
+     1
+  9
+$INTERFERECOLOR
+ 62
+   256
+  9
+$INTERFEREOBJVS
+345
+50
+  9
+$INTERFEREVPVS
+346
+51
+  9
+$CSHADOW
+280
+     0
+  9
+$SHADOWPLANELOCATION
+ 40
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+ 91
+        3
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        3
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+       18
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+     4095
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBSECTIONVIEWSTYLE
+  2
+AcDbSectionViewStyle
+  3
+ObjectDBX Classes
+ 90
+     1025
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDbDetailViewStyle
+  3
+ObjectDBX Classes
+ 90
+     1025
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMMAPMANAGER
+  2
+AcMapDMMapManager
+  3
+AcMapDisplayManagement
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMSTYLELIBRARY
+  2
+AcMapDMStyleLibrary
+  3
+AcMapDisplayManagement
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMSTYLECATEGORY
+  2
+AcMapDMStyleCategory
+  3
+AcMapDisplayManagement
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DATATABLE
+  2
+AcDbDataTable
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_TREE_NODE
+  2
+AeccDbTreeNode
+  3
+AeccvBase100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ROOT_SETTINGS_NODE
+  2
+AeccDbRootSettingsNode
+  3
+AeccvBase100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_VARS_DWG_SETUP
+  2
+AecDbVarsDwgSetup
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MAPRESOURCEMANAGEROBJECT
+  2
+AcMapResourceManager
+  3
+AcMapSharedComponents
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MAPGWSUNDOOBJECT
+  2
+AcMapGWSUndoRecorder
+  3
+AcMapFeatureSourceManager
+ 90
+     1025
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_NOTIFICATION_TRACKER
+  2
+AecDbNotificationTracker
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+NPOCOLLECTION
+  2
+AcDbImpNonPersistentObjectsCollection
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_2D_SECTION
+  2
+AecDbDispRep2dSection
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_2D_SECTION
+  2
+AecDbDispProps2dSection
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ANCHOR
+  2
+AecDbDispRepAnchor
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ANCHOR_ENT_TO_NODE
+  2
+AecDbDispRepAnchorEntToNode
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_ENT
+  2
+AecDbDispPropsEnt
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ANCHOR_TAG_TO_ENT
+  2
+AecDbDispRepAnchorTagToEnt
+  3
+LAN_AECSCHEDULEDATA|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ANCHOR_EXT_TAG_TO_ENT
+  2
+AecDbDispRepAnchorExtendedTagToEnt
+  3
+LAN_AECSCHEDULEDATA|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CLIP_VOLUME_MODEL
+  2
+AecDbDispRepClipVolModel
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_CLIP_VOLUME
+  2
+AecDbDispPropsClipVol
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CLIP_VOLUME_PLAN
+  2
+AecDbDispRepClipVolPlan
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CLIP_VOLUME_RESULT
+  2
+AecDbDispRepClipVolResult
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CLIP_VOLUME_RESULT_SUBDIV
+  2
+AecDbDispRepClipVolResSubDiv
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_CLIP_VOLUME_RESULT
+  2
+AecDbDispPropsClipVolResSubDiv
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_DISPLAYTHEME
+  2
+AecDbDispRepDisplayTheme
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_DISPLAYTHEME
+  2
+AecDbDispPropsDisplayTheme
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_EDITINPLACEPROFILE
+  2
+AecDbDispRepEditInPlaceProfile
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_EDITINPLACEPROFILE_MODEL
+  2
+AecDbDispPropsEditInPlaceProfile
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ENT_REF
+  2
+AecDbDispRepEntRef
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_ENT_REF
+  2
+AecDbDispPropsEntRef
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_LAYOUT_CURVE
+  2
+AecDbDispRepLayoutCurve
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_LAYOUT_CURVE
+  2
+AecDbDispPropsLayoutCurve
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_LAYOUT_GRID2D
+  2
+AecDbDispRepLayoutGrid2d
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_LAYOUT_GRID2D
+  2
+AecDbDispPropsLayoutGrid2d
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_LAYOUT_GRID3D
+  2
+AecDbDispRepLayoutGrid3d
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_LAYOUT_GRID3D
+  2
+AecDbDispPropsLayoutGrid3d
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASKBLOCK_REF
+  2
+AecDbDispRepMaskBlockRef
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_MASKBLOCK
+  2
+AecDbDispPropsMaskBlock
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MATERIAL
+  2
+AecDbDispRepMaterial
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_MATERIAL
+  2
+AecDbDispPropsMaterial
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MVBLOCK_REF
+  2
+AecDbDispRepMvBlockRef
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MVBLOCK_REF_MODEL
+  2
+AecDbDispRepMvBlockRefModel
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_POLYGON_MODEL
+  2
+AecDbDispRepPolygonModel
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_POLYGON_MODEL
+  2
+AecDbDispPropsPolygonModel
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_POLYGON_TRUECOLOUR
+  2
+AecDbDispRepPolygonTrueColour
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_POLYGON_TRUECOLOUR
+  2
+AecDbDispPropsPolygonTrueColour
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_SLICE
+  2
+AecDbDispRepSlice
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_SLICE
+  2
+AecDbDispPropsSlice
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASS_ELEM_MODEL
+  2
+AecDbDispRepMassElemModel
+  3
+AecBaseEx70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_MASS_ELEM_MODEL
+  2
+AecDbDispPropsMassElem
+  3
+AecBaseEx70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASS_ELEM_SCHEM
+  2
+AecDbDispRepMassElemSchem
+  3
+AecBaseEx70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASS_GROUP_MODEL
+  2
+AecDbDispRepMassGroupModel
+  3
+AecBaseEx70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_MASS_GROUP
+  2
+AecDbDispPropsMassGroup
+  3
+AecBaseEx70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASS_GROUP_PLAN
+  2
+AecDbDispRepMassGroupPlan
+  3
+AecBaseEx70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_AUTO_FEATURE_LINE
+  2
+AeccDbDispRepAutoFeatureLine
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_AUTO_FEATURE_LINE_CSV
+  2
+AeccDbDispRepAutoFeatureLineCSV
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_AUTO_FEATURE_LINE_PROFILE
+  2
+AeccDbDispRepAutoFeatureLineProfile
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_AUTO_FEATURE_LINE_SECTION
+  2
+AeccDbDispRepAutoFeatureLineSection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SUPERELEVATION_DIAGRAM_VIEW
+  2
+AeccDbDispRepSuperelevationDiagram
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_CANT_DIAGRAM_VIEW
+  2
+AeccDbDispRepCantDiagram
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FEATURE_LINE
+  2
+AeccDbDispRepFeatureLine
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FEATURE_LINE_CSV
+  2
+AeccDbDispRepFeatureLineCSV
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FEATURE_LINE_PROFILE
+  2
+AeccDbDispRepFeatureLineProfile
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FEATURE_LINE_SECTION
+  2
+AeccDbDispRepFeatureLineSection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_GRADING
+  2
+AeccDbDispRepGrading
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_GRAPH
+  2
+AeccDbDispRepGraph
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_VIEW
+  2
+AeccDbDispRepGraphCrossSection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_MASS_HAUL_VIEW
+  2
+AeccDbDispRepGraphMassHaulView
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PROFILE_VIEW
+  2
+AeccDbDispRepGraphProfile
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_MASSHAULLINE
+  2
+AeccDbDispRepMassHaulLine
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_MATERIAL_SECTION
+  2
+AeccDbDispRepMaterialSection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PROFILE_PROJECTION
+  2
+AeccDbDispRepProfileProjection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_QUANTITY_TAKEOFF_AGGREGATE_EARTHWORK_TABLE
+  2
+AeccDbDispRepQuantityTakeoffAggregateTable
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SAMPLE_LINE
+  2
+AeccDbDispRepSampleLine
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SAMPLE_LINE_GROUP
+  2
+AeccDbDispRepSampleLineGroup
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION
+  2
+AeccDbDispRepSection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_PROJECTION
+  2
+AeccDbDispRepSectionProjection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_VIEW_QUANTITY_TAKEOFF_TABLE
+  2
+AeccDbDispRepSectionViewQuantityTakeoffTable
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SHEET
+  2
+AeccDbDispRepSheet
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_GRID_SURFACE
+  2
+AeccDbDispRepSurfaceGrid
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_TIN_SURFACE_CSV
+  2
+AeccDbDispRepSurfaceTinCSV
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_GRID_SURFACE_CSV
+  2
+AeccDbDispRepSurfaceGridCSV
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_TIN_SURFACE
+  2
+AeccDbDispRepSurfaceTin
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PROFILE
+  2
+AeccDbDispRepVAlignment
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VALIGNMENT_CSV
+  2
+AeccDbDispRepVAlignmentCSV
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT
+  2
+AeccDbViewAlignment
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_CSV
+  2
+AeccDbViewAlignmentCSV
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_LABELING
+  2
+AeccDbViewLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_CANT_LABEL_GROUP
+  2
+AeccDbViewAlignmentCantLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_CURVE_LABEL
+  2
+AeccDbViewAlignmentCurveLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_DESIGNSPEED_LABEL_GROUP
+  2
+AeccDbViewAlignmentDesignSpeedLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_GEOMPT_LABEL_GROUP
+  2
+AeccDbViewAlignmentGeomPointLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_INDEXED_PI_LABEL
+  2
+AeccDbViewAlignmentIndexedPILabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_MINOR_STATION_LABEL_GROUP
+  2
+AeccDbViewAlignmentMinorStationLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_PI_LABEL
+  2
+AeccDbViewAlignmentPILabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_SPIRAL_LABEL
+  2
+AeccDbViewAlignmentSpiralLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_STAEQU_LABEL_GROUP
+  2
+AeccDbViewAlignmentStaEquLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_STATION_LABEL_GROUP
+  2
+AeccDbViewAlignmentStationLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_SUPERELEVATION_LABEL_GROUP
+  2
+AeccDbViewAlignmentSuperelevationLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_TABLE
+  2
+AeccDbViewAlignmentTable
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_TANGENT_LABEL
+  2
+AeccDbViewAlignmentTangentLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_VERTICAL_GEOMPT_LABELING
+  2
+AeccDbViewAlignmentVAGeomPointLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FACE
+  2
+AeccDbViewFace
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PARCEL_TABLE
+  2
+AeccDbViewFaceScheduleTable
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FEATURE
+  2
+AeccDbViewFeature
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FEATURE_LABEL
+  2
+AeccDbViewFeatureLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_GENERAL_SEGMENT_LABEL
+  2
+AeccDbViewGeneralLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_HORGEOMETRY_BAND_LABEL_GROUP
+  2
+AeccDbViewHorizontalGeometryBandLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_LEGEND_TABLE
+  2
+AeccDbViewLegendScheduleTable
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_LINE_BETWEEN_POINTS_LABEL
+  2
+AeccDbViewLineBetweenPointsLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PARCEL_SEGMENT
+  2
+AeccDbViewLotLine
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_LOTLINE_CSV
+  2
+AeccDbViewLotLineCSV
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_NOTE_LABEL
+  2
+AeccDbViewNoteLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_OFFSET_ELEV_LABEL
+  2
+AeccDbViewOffsetElevLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PARCEL_BOUNDARY
+  2
+AeccDbViewParcelBoundary
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PARCEL_FACE_LABEL
+  2
+AeccDbViewParcelFaceLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PARCEL_SEGMENT_LABEL
+  2
+AeccDbViewParcelSegmentLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PARCEL_SEGMENT_TABLE
+  2
+AeccDbViewParcelSegmentTable
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PIPENETWORK_BAND_LABEL_GROUP
+  2
+AeccDbViewPipeNetworkBandLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_POINT_ENT
+  2
+AeccDbViewPointEnt
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_POINT_GROUP
+  2
+AeccDbViewPointGroup
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_POINT_TABLE
+  2
+AeccDbViewPointScheduleTable
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PROFILEDATA_BAND_LABEL_GROUP
+  2
+AeccDbViewProfileDataBandLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PROFILE_PROJECTION_LABEL
+  2
+AeccDbViewProfileProjectionLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PROFILE_VIEW_DEPTH_LABEL
+  2
+AeccDbViewProfileViewDepthLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_RIGHT_OF_WAY
+  2
+AeccDbViewRightofWay
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SAMPLELINE_LABELING
+  2
+AeccDbViewSampleLineLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTIONDATA_BAND_LABEL_GROUP
+  2
+AeccDbViewSectionDataBandLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_GRADEBREAK_LABEL_GROUP
+  2
+AeccDbViewSectionGradeBreakLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_MINOR_OFFSET_LABEL_GROUP
+  2
+AeccDbViewSectionMinorOffsetLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_OFFSET_LABEL_GROUP
+  2
+AeccDbViewSectionOffsetLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_PROJECTION_LABEL
+  2
+AeccDbViewSectionProjectionLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTIONSEGMENT_BAND_LABEL_GROUP
+  2
+AeccDbViewSectionSegmentBandLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_SEGMENT_LABEL_GROUP
+  2
+AeccDbViewSectionSegmentLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_VIEW_DEPTH_LABEL
+  2
+AeccDbViewSectionViewDepthLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTIONALDATA_BAND_LABEL_GROUP
+  2
+AeccDbViewSectionalDataBandLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_STATION_ELEV_LABEL
+  2
+AeccDbViewStaElevLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ALIGNMENT_STATION_OFFSET_LABEL
+  2
+AeccDbViewStaOffsetLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SUPERELEVATION_BAND_LABEL_GROUP
+  2
+AeccDbViewSuperElevationBandLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SURFACE_CONTOUR_LABEL_GROUP
+  2
+AeccDbViewSurfaceContourLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SURFACE_ELEVATION_LABEL
+  2
+AeccDbViewSurfaceElevLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SURFACE_SLOPE_LABEL
+  2
+AeccDbViewSurfaceSlopeLabel
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_TANGENT_INTERSECTION_TABLE
+  2
+AeccDbViewTangentIntersectionTable
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VALIGNMENT_CRESTCURVE_LABEL_GROUP
+  2
+AeccDbViewVAlignmentCrestCurveLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VALIGNMENT_HAGEOMPT_LABEL_GROUP
+  2
+AeccDbViewVAlignmentHAGeomPointLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VALIGNMENT_LINE_LABEL_GROUP
+  2
+AeccDbViewVAlignmentLineLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VALIGNMENT_MINOR_STATION_LABEL_GROUP
+  2
+AeccDbViewVAlignmentMinorStationLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VALIGNMENT_PVI_LABEL_GROUP
+  2
+AeccDbViewVAlignmentPVILabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VALIGNMENT_SAGCURVE_LABEL_GROUP
+  2
+AeccDbViewVAlignmentSagCurveLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VALIGNMENT_STATION_LABEL_GROUP
+  2
+AeccDbViewVAlignmentStationLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VERTICALGEOMETRY_BAND_LABEL_GROUP
+  2
+AeccDbViewVerticalGeometryBandLabeling
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_BLOCK
+  2
+AeccuDbDispRepColBlock
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CIRCARC2D
+  2
+AeccuDbDispRepColCircArc2d
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONCOINCIDENT
+  2
+AeccuDbDispRepColConCoincident
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONCONCENTRIC
+  2
+AeccuDbDispRepColConConcentric
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONEQUALDISTANCE
+  2
+AeccuDbDispRepColConEqualDistance
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONMIDPOINT
+  2
+AeccuDbDispRepColConMidpoint
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONNORMAL
+  2
+AeccuDbDispRepColConNormal
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONPARALLEL
+  2
+AeccuDbDispRepColConParallel
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONPERPENDICULAR
+  2
+AeccuDbDispRepColConPerpendicular
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONSYMMETRIC
+  2
+AeccuDbDispRepColConSymmetric
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONTANGENT
+  2
+AeccuDbDispRepColConTangent
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_CONNECTOR
+  2
+AeccuDbDispRepColConnector
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_DIMANGLE
+  2
+AeccuDbDispRepColDimAngle
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_DCM_DIMRADIUS
+  2
+AeccuDbDispRepColDimRadius
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_DIMDIAMETER
+  2
+AeccuDbDispRepColDimDiameter
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_DIMDISTANCE
+  2
+AeccuDbDispRepColDimDistance
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_DIMLENGTH
+  2
+AeccuDbDispRepColDimLength
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_DIMMAJORRADIUS
+  2
+AeccuDbDispRepColDimMajorRadius
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_DIMMINORRADIUS
+  2
+AeccuDbDispRepColDimMinorRadius
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_ELLIPARC2D
+  2
+AeccuDbDispRepColEllipArc2d
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_LAYOUTDATA
+  2
+AeccuDbDispRepColLayoutData
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_LINE2D
+  2
+AeccuDbDispRepColLine2d
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_MODIFIER_ADD
+  2
+AeccuDbDispRepColModAdd
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_MODIFIER_CUTPLANE
+  2
+AeccuDbDispRepColModCutPlane
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_MODIFIER_EXTRUSION
+  2
+AeccuDbDispRepColModExtrusion
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_MODIFIER_GROUP
+  2
+AeccuDbDispRepColModGroup
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_MODIFIER_PATH
+  2
+AeccuDbDispRepColModPath
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_MODIFIER_SUBTRACT
+  2
+AeccuDbDispRepColModSubtract
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_MODIFIER_TRANSITION
+  2
+AeccuDbDispRepColModTransition
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_POINT2D
+  2
+AeccuDbDispRepColPoint2d
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_PROFILE
+  2
+AeccuDbDispRepColProfile
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_WORKPLANE
+  2
+AeccuDbDispRepColWorkPlane
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_COL_WORKPLANE_REF
+  2
+AeccuDbDispRepColWorkPlaneRef
+  3
+AeccParamPart100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_GRAPHPROFILE_NETWORKPART
+  2
+AeccDbDispRepGraphProfileNetworkPart
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_INTERFERENCE_PART
+  2
+AeccDbDispRepInterference
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_INTERFERENCE_PART_SECTION
+  2
+AeccDbDispRepInterferenceCSV
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_INTERFERENCE_CHECK
+  2
+AeccDbDispRepInterferenceCheck
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_NETWORK
+  2
+AeccDbDispRepNetwork
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PIPE
+  2
+AeccDbDispRepPipe
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PIPE_CSV
+  2
+AeccDbDispRepPipeCSV
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_PIPENETWORK
+  2
+AeccDbDispRepSectionPipeNetwork
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_STRUCTURE
+  2
+AeccDbDispRepStructure
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_STRUCTURE_CSV
+  2
+AeccDbDispRepStructureCSV
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PIPE_TABLE
+  2
+AeccDbViewPipeAndStructureTable
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PIPE_LABELING
+  2
+AeccDbViewPipeLabel
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PIPE_PROFILE_LABELING
+  2
+AeccDbViewPipeProfileLabel
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PIPE_SECTION_LABELING
+  2
+AeccDbViewPipeSectionLabel
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SPANNING_PIPE_LABELING
+  2
+AeccDbViewSpanningPipeLabel
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SPANNING_PIPE_PROFILE_LABELING
+  2
+AeccDbViewSpanningPipeProfileLabel
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_STRUCTURE_LABELING
+  2
+AeccDbViewStructureLabel
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_STRUCTURE_PROFILE_LABELING
+  2
+AeccDbViewStructureProfileLabel
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_STRUCTURE_SECTION_LABELING
+  2
+AeccDbViewStructureSectionLabel
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_AUTO_CORRIDOR_FEATURE_LINE
+  2
+AeccDbDispRepAutoCorridorFeatureLine
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_AUTO_CORRIDOR_FEATURE_LINE_PROFILE
+  2
+AeccDbDispRepAutoCorridorFeatureLineProfile
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_AUTO_CORRIDOR_FEATURE_LINE_SECTION
+  2
+AeccDbDispRepAutoCorridorFeatureLineSection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_CSVSTATIONSLIDER
+  2
+AeccDbDispRepCSVStationSlider
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_INTERSECTION
+  2
+AeccDbDispRepIntersection
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SECTION_CORRIDOR
+  2
+AeccDbDispRepSectionCorridor
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_ASSEMBLY
+  2
+AeccDbViewAssembly
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_CORRIDOR
+  2
+AeccDbViewCorridor
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_INTERSECTION_LOCATION_LABELING
+  2
+AeccDbViewIntersectionLocationLabel
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SUBASSEMBLY
+  2
+AeccDbViewSubassembly
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SVFIGURE
+  2
+AeccDbViewSvFigure
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SVFIGURE_CSV
+  2
+AeccDbViewSvFigureCSV
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SURVEY_FIGURE_LABEL_GROUP
+  2
+AeccDbViewSvFigureLabel
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SVFIGURE_PROFILE
+  2
+AeccDbViewSvFigureProfile
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SVFIGURE_SECTION
+  2
+AeccDbViewSvFigureSection
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SVFIGURE_SEGMENT_LABEL
+  2
+AeccDbViewSvFigureSegmentLabel
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_SVNETWORK
+  2
+AeccDbViewSvNetwork
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_SCHEDULE_TABLE
+  2
+AecDbDispRepScheduleTable
+  3
+AecSchedule70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_SCHEDULE_TABLE
+  2
+AecDbDispPropsScheduleTable
+  3
+AecSchedule70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_MATCH_LINE
+  2
+AeccDbDispRepMatchLine
+  3
+AeccPlanProd100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VIEW_FRAME
+  2
+AeccDbDispRepViewFrame
+  3
+AeccPlanProd100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_MATCHLINE_LABELING
+  2
+AeccDbViewMatchLineLabeling
+  3
+AeccPlanProd100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_VIEWFRAME_LABELING
+  2
+AeccDbViewViewFrameLabeling
+  3
+AeccPlanProd100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_CONTOURVIEW
+  2
+AeccDbViewContour
+  3
+AecCivilBase|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_POINTVIEW
+  2
+AeccDbViewPoint
+  3
+AecCivilBase|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+     1025
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_GRADEVIEW
+  2
+AeccViewGrade
+  3
+AecCivilBase|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+     1025
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_CVSECTIONVIEW
+  2
+AecCvViewSection
+  3
+AecCivilBase|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_BUILDINGUTIL_CONNECTOR
+  2
+AeccDbDispRepBSUtilConnector
+  3
+AeccBuildingSite100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      893
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_BUILDINGSITE
+  2
+AeccDbDispRepBuildingSite
+  3
+AeccBuildingSite100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      893
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_CATCHMENT_AREA
+  2
+AeccDbDispRepCatchmentArea
+  3
+AeccHydrology100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_HYDRO_REGION
+  2
+AeccDbDispRepHydroRegion
+  3
+AeccHydrology100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_CATCHMENT_AREA_LABEL
+  2
+AeccDbViewCatchmentAreaLabel
+  3
+AeccHydrology100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FLOW_SEGMENT_LABEL
+  2
+AeccDbViewFlowSegmentLabel
+  3
+AeccHydrology100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_APPURTENANCE
+  2
+AeccDbDispRepAppurtenance
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FITTING
+  2
+AeccDbDispRepFitting
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_GRAPHPROFILE_PRESSUREPART
+  2
+AeccDbDispRepGraphProfilePressurePart
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PRESSURE_PIPE
+  2
+AeccDbDispRepPressurePipe
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_APPURTENANCE_LABELING
+  2
+AeccDbViewAppurtenanceLabel
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_APPURTENANCE_PROFILE_LABELING
+  2
+AeccDbViewAppurtenanceProfileLabel
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FITTING_LABELING
+  2
+AeccDbViewFittingLabel
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_FITTING_PROFILE_LABELING
+  2
+AeccDbViewFittingProfileLabel
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PRESSURE_PIPE_LABELING
+  2
+AeccDbViewPressurePipeLabel
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_DISP_REP_PRESSURE_PIPE_PROFILE_LABELING
+  2
+AeccDbViewPressurePipeProfileLabel
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+        0
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_SET
+  2
+AecDbDispRepSet
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CONFIG
+  2
+AecDbDispRepConfig
+  3
+AecBase70|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_CLASS_NODE
+  2
+AeccDbClassNode
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_USER_DEFINED_ATTRIBUTE_CLASSIFICATION
+  2
+AeccDbUserDefinedAttributeClassification
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_TAG_MANAGER
+  2
+AeccDbTagManager
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+     3071
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SETTINGS_NODE
+  2
+AeccDbSettingsNode
+  3
+AeccvBase100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_VIEW_STYLE
+  2
+AeccDbGraphStyleProfile
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_LABEL_NODE
+  2
+AeccDbLabelNode
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_LABEL_COLLECTOR_STYLE
+  2
+AeccDbLabelStyleCollector
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_VIEW_BAND_STYLE_SET
+  2
+AeccDbGraphProfileBandStyleSet
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_VIEW_DATA_BAND_STYLE
+  2
+AeccDbGraphStyleProfileDataBands
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_LABEL_TEXT_STYLE
+  2
+AeccDbLabelStyleText
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_LABEL_RADIAL_LINE_STYLE
+  2
+AeccDbLabelStyleRadialLine
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_VIEW_HORIZONTAL_GEOMETRY_BAND_STYLE
+  2
+AeccDbGraphStyleHorGeometryBands
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_LABEL_TEXT_ITERATOR_CURVE_OR_SPIRAL_STYLE
+  2
+AeccDbLabelStyleTextIteratorCurveOrSpiral
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_VIEW_VERTICAL_GEOMETRY_BAND_STYLE
+  2
+AeccDbGraphStyleVertGeometryBands
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_VIEW_SUPERELEVATION_DIAGRAM_BAND_STYLE
+  2
+AeccDbGraphStyleSuperElevationBands
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_VIEW_SECTIONAL_DATA_BAND_STYLE
+  2
+AeccDbGraphStyleSectionalDataBands
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ROADWAYMARKER_STYLE
+  2
+AeccDbRoadwayMarkerStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_LABEL_SET
+  2
+AeccDbVAlignStnLabelsDlgTemplate
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILESECTIONENTITY_STYLE
+  2
+AeccDbProfileSectionEntityStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ROADWAYSHAPE_STYLE
+  2
+AeccDbRoadwayShapeStyle
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SHEET_STYLE
+  2
+AeccDbSheetStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_CANT_DIAGRAM_VIEW_STYLE
+  2
+AeccDbGraphStyleCant
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_POINT_STYLE
+  2
+AeccDbPointStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_GRADING_GROUP
+  2
+AeccDbGradingGroup
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_GRADING_CRITERIA
+  2
+AeccDbGradingCriteria
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SLOPE_PATTERN_STYLE
+  2
+AeccDbSlopePatternStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_FEATURELINE_STYLE
+  2
+AeccDbFeatureLineStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_GRADING_STYLE
+  2
+AeccDbGradingStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_LABEL_VECTOR_ARROW_STYLE
+  2
+AeccDbLabelStyleVectorArrow
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_MASS_HAUL_LINE_STYLE
+  2
+AeccDbMassHaulLineStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+     3071
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_MASS_HAUL_VIEW_STYLE
+  2
+AeccDbGraphStyleMassHaulView
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_STYLE
+  2
+AeccDbVAlignmentStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_STATION_FORMAT_STYLE
+  2
+AeccDbStationFormatStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SECTION_VIEW_STYLE
+  2
+AeccDbGraphStyleCrossSection
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SECTION_VIEW_BAND_STYLE_SET
+  2
+AeccDbGraphSectionBandStyleSet
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SAMPLE_LINE_GROUP_STYLE
+  2
+AeccDbSampleLineGroupStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SECTION_VIEW_DATA_BAND_STYLE
+  2
+AeccDbGraphStyleSectionDataBands
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SECTION_VIEW_ROAD_SURFACE_BAND_STYLE
+  2
+AeccDbGraphStyleSectionRoadSurfaceBands
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SECTION_LABEL_SET
+  2
+AeccDbSectionLabelsDlgTemplate
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+     3071
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SAMPLE_LINE_STYLE
+  2
+AeccDbSampleLineStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SECTION_STYLE
+  2
+AeccDbSectionStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SUPERELEVATION_DIAGRAM_VIEW_STYLE
+  2
+AeccDbGraphStyleSuperelevation
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ALIGNMENT_STYLE
+  2
+AeccDbAlignmentStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ALIGNMENT_LABEL_SET
+  2
+AeccDbAlignStnLabelsDlgTemplate
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ALIGNMENT_DESIGN_CHECK_SET
+  2
+AeccDbAlignmentDesignCheckSet
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PARCEL_STYLE
+  2
+AeccDbParcelStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SURFACE_STYLE
+  2
+AeccDbSurfaceStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_LEGEND_TABLE_STYLE
+  2
+AeccDbLegendScheduleTableStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_TABLE_STYLE
+  2
+AeccDbScheduleTableStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_GRADING_CRITERIA_SET
+  2
+AeccDbGradingCriteriaSet
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PARCEL_NODE
+  2
+AeccDbParcelNode
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ALIGNMENT_PARCEL_NODE
+  2
+AeccDbAlignmentParcelNode
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_FEATURE_STYLE
+  2
+AeccDbFeatureStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_FORMAT_MANAGER_OBJECT
+  2
+AeccDbFormatManagerObject
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_MATERIAL_STYLE
+  2
+AeccDbMaterialStyle
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_VIEW_PIPE_NETWORK_BAND_STYLE
+  2
+AeccDbGraphProfileStylePipeNetworkBand
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PIPE_STYLE
+  2
+AeccDbPipeStyle
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_STUCTURE_STYLE
+  2
+AeccDbStructureStyle
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PIPE_RULES
+  2
+AeccDbPipeRules
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_NETWORK_RULE
+  2
+AeccDbNetworkRule
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_IMPORT_STORM_SEWER_DEFAULTS
+  2
+AeccDbImportStormSewerDefaults
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_NETWORK_PART_CATALOG_DEF_NODE
+  2
+AeccDbNetworkCatalogDef
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_NETWORK_PART_LIST
+  2
+AeccDbPartList
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_NETWORK_PART_FAMILY_ITEM
+  2
+AeccDbPartFamilyItem
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_STRUCTURE_RULES
+  2
+AeccDbStructureRules
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PART_SIZE_FILTER
+  2
+AeccDbPartSizeFilter
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_INTERFERENCE_STYLE
+  2
+AeccDbInterferenceStyle
+  3
+AeccNetwork100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PRESSURE_PART_LIST
+  2
+AeccDbPressurePartList
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_APPURTENANCE_STYLE
+  2
+AeccDbAppurtenanceStyle
+  3
+LAN_AECCPRESSUEPIPES|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_FITTING_STYLE
+  2
+AeccDbFittingStyle
+  3
+LAN_AECCPRESSUEPIPES|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PRESSURE_PIPE_STYLE
+  2
+AeccDbPressurePipeStyle
+  3
+AeccPressurePipes100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_INTERSECTION_STYLE
+  2
+AeccDbIntersectionStyle
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_LABEL_TEXT_ITERATOR_STYLE
+  2
+AeccDbLabelStyleTextIterator
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ROADWAY_STYLE_SET
+  2
+AeccDbRoadwayStyleSet
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ROADWAYLINK_STYLE
+  2
+AeccDbRoadwayLinkStyle
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_CORRIDOR_STYLE
+  2
+AeccDbCorridorStyle
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_ASSEMBLY_STYLE
+  2
+AeccDbAssemblyStyle
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_QUANTITY_TAKEOFF_CRITERIA
+  2
+AeccDbQuantityTakeoffCriteria
+  3
+AeccRoadway100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_PROFILE_DESIGN_CHECK_SET
+  2
+AeccDbVAlignmentDesignCheckSet
+  3
+AeccLand100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SVNETWORK_STYLE
+  2
+AeccDbSvNetworkStyle
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_SVFIGURE_STYLE
+  2
+AeccDbSvFigureStyle
+  3
+AeccSurvey100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_VIEW_FRAME_STYLE
+  2
+AeccDbViewFrameStyle
+  3
+AeccPlanProd100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_MATCHLINE_STYLE
+  2
+AeccDbMatchLineStyle
+  3
+AeccPlanProd100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_CATCHMENT_STYLE
+  2
+AeccDbCatchmentAreaStyle
+  3
+AeccHydrology100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_BUILDING_SITE_STYLE
+  2
+AeccDbBuildingSiteStyle
+  3
+AeccBuildingSite100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AECC_POINTCLOUD_STYLE
+  2
+AeccDbPointCloudStyle
+  3
+AeccPointCloud100|Product Desc: AutoCAD Civil 3D |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMMAP
+  2
+AcMapDMMap
+  3
+AcMapDisplayManagement
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMBASEELEMENT
+  2
+AcMapDMBaseElement
+  3
+AcMapDisplayManagement
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMDEFAULTSTYLE
+  2
+AcMapDMDefaultStyle
+  3
+AcMapDisplayManagement
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMSTYLEREFERENCE
+  2
+AcMapDMStyleReference
+  3
+AcMapDisplayManagement
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMSURROGATESTYLESETS
+  2
+AcMapDMSurrogateStyleSets
+  3
+AcMapDisplayManagement
+ 90
+     1153
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SORTENTSTABLE
+  2
+AcDbSortentsTable
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        2
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DMSTYLIZEDENTITIESTABLE
+  2
+AcMapDMStylizedEntitiesTable
+  3
+AcMapDisplayManagement
+ 90
+     1024
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        7
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+CELLSTYLEMAP
+  2
+AcDbCellStyleMap
+  3
+ObjectDBX Classes
+ 90
+     1152
+ 91
+        1
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+3B
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+VPORT
+  5
+3C
+330
+3B
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+10264.89472240112
+ 22
+10980.8540763335
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+6478.979081242671
+ 41
+2.8470066518847
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+348
+3D
+ 60
+     3
+ 61
+     5
+292
+     1
+282
+     1
+141
+0.0
+142
+0.0
+ 63
+   250
+1001
+ACAD_NAV_VCDISPLAY
+1070
+     3
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+36
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+37
+330
+36
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+38
+330
+36
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+D
+330
+36
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+32
+330
+0
+100
+AcDbSymbolTable
+ 70
+     7
+  0
+LAYER
+  5
+6
+330
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+7
+347
+B
+  0
+LAYER
+  5
+16
+330
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+GEO1
+ 70
+     0
+ 62
+   244
+  6
+Continuous
+370
+    -3
+390
+7
+347
+B
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+11
+330
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+GEO2
+ 70
+     0
+ 62
+    94
+  6
+Continuous
+370
+    -3
+390
+7
+347
+B
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+1A
+330
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+GEO3
+ 70
+     0
+ 62
+    11
+  6
+Continuous
+370
+    -3
+390
+7
+347
+B
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+1E
+330
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+GEO4
+ 70
+     0
+ 62
+    50
+  6
+Continuous
+370
+    -3
+390
+7
+347
+B
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+22
+330
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+GEO5
+ 70
+     0
+ 62
+   160
+  6
+Continuous
+370
+    -3
+390
+7
+347
+B
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+26
+330
+32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+GEO6
+ 70
+     0
+ 62
+    40
+  6
+Continuous
+370
+    -3
+390
+7
+347
+B
+1001
+AcCmTransparency
+1071
+        0
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+33
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+34
+330
+33
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+39
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+3A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+40
+330
+0
+100
+AcDbSymbolTable
+ 70
+     4
+  0
+APPID
+  5
+41
+330
+40
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+12
+330
+40
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcCmTransparency
+ 70
+     0
+  0
+APPID
+  5
+3F
+330
+40
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+A
+330
+40
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ADE
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+42
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+100
+AcDbDimStyleTable
+ 71
+     1
+340
+43
+  0
+DIMSTYLE
+105
+43
+330
+42
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+340
+34
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+BLOCK_RECORD
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+3
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+28
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+2A
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+2D
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+2E
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+31
+ 70
+     0
+280
+     1
+281
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+5
+330
+2
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+27
+330
+2
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2B
+330
+2A
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+2C
+330
+2A
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2F
+330
+2E
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+30
+330
+2E
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+E
+102
+{ACAD_XDICTIONARY
+360
+F
+102
+}
+330
+2
+100
+AcDbEntity
+  8
+GEO2
+100
+AcDbPolyline
+ 90
+      176
+ 70
+     1
+ 43
+0.0
+ 10
+9010.000122070312
+ 20
+11290.00012207031
+ 10
+9002.330688476563
+ 20
+11533.2451171875
+ 10
+9250.000122070312
+ 20
+11310.00012207031
+ 10
+9274.095275878906
+ 20
+11208.88092041016
+ 10
+9300.394897460938
+ 20
+11103.68188476562
+ 10
+9291.628295898439
+ 20
+10945.88287353516
+ 10
+9274.095275878906
+ 20
+10831.91729736328
+ 10
+9256.562072753906
+ 20
+10665.35192871094
+ 10
+9326.694702148436
+ 20
+10551.38610839844
+ 10
+9423.127319335938
+ 20
+10454.95349121094
+ 10
+9633.703308105467
+ 20
+10331.57171630859
+ 10
+9674.385681152344
+ 20
+10287.19067382812
+ 10
+9703.973083496094
+ 20
+10246.50830078125
+ 10
+9755.750671386721
+ 20
+10198.42889404297
+ 10
+9796.43328857422
+ 20
+10157.74652099609
+ 10
+9837.11590576172
+ 20
+10128.15911865234
+ 10
+9892.591918945313
+ 20
+10109.66711425781
+ 10
+9977.6552734375
+ 20
+10087.47668457031
+ 10
+10088.60748291016
+ 20
+10068.98468017578
+ 10
+10188.46472167969
+ 20
+10050.49267578125
+ 10
+10280.92492675781
+ 20
+10013.50848388672
+ 10
+10351.19470214844
+ 20
+9983.921325683594
+ 10
+10484.33728027344
+ 20
+9917.349914550779
+ 10
+10576.79748535156
+ 20
+9802.699279785157
+ 10
+10587.89288330078
+ 20
+9713.937316894533
+ 10
+10758.01971435547
+ 20
+9559.528686523437
+ 10
+10866.19812011719
+ 20
+9479.088500976564
+ 10
+11176.86450195312
+ 20
+9404.195678710937
+ 10
+11415.41192626953
+ 20
+9354.26708984375
+ 10
+11662.28070068359
+ 20
+9215.576721191407
+ 10
+11767.00012207031
+ 20
+9010.000122070312
+ 10
+11422.00012207031
+ 20
+9010.000122070312
+ 10
+10887.00012207031
+ 20
+9010.000122070312
+ 10
+10814.00012207031
+ 20
+9010.000122070312
+ 10
+10809.99987792969
+ 20
+9013.000122070312
+ 10
+10789.99987792969
+ 20
+9027.000122070312
+ 10
+10786.00012207031
+ 20
+9029.999877929688
+ 10
+10770.00012207031
+ 20
+9040.999877929687
+ 10
+10756.99987792969
+ 20
+9049.999877929687
+ 10
+10750.00012207031
+ 20
+9055.000122070312
+ 10
+10730.00012207031
+ 20
+9069.000122070312
+ 10
+10729.00012207031
+ 20
+9070.000122070313
+ 10
+10710.00012207031
+ 20
+9082.999877929687
+ 10
+10690.00012207031
+ 20
+9097.000122070312
+ 10
+10670.00012207031
+ 20
+9103.000122070312
+ 10
+10650.00012207031
+ 20
+9106.000122070312
+ 10
+10637.00012207031
+ 20
+9110.000122070312
+ 10
+10630.00012207031
+ 20
+9112.000122070313
+ 10
+10589.99987792969
+ 20
+9117.999877929689
+ 10
+10569.99987792969
+ 20
+9123.000122070314
+ 10
+10550.00012207031
+ 20
+9126.999877929687
+ 10
+10530.00012207031
+ 20
+9130.000122070311
+ 10
+10510.00012207031
+ 20
+9137.999877929688
+ 10
+10498.00012207031
+ 20
+9150.000122070313
+ 10
+10490.00012207031
+ 20
+9159.999877929688
+ 10
+10470.00012207031
+ 20
+9163.000122070313
+ 10
+10450.00012207031
+ 20
+9167.000122070312
+ 10
+10430.00012207031
+ 20
+9168.000122070314
+ 10
+10415.00012207031
+ 20
+9170.000122070312
+ 10
+10410.00012207031
+ 20
+9170.999877929688
+ 10
+10330.00012207031
+ 20
+9183.000122070312
+ 10
+10310.00012207031
+ 20
+9185.000122070311
+ 10
+10290.00012207031
+ 20
+9188.000122070311
+ 10
+10270.00012207031
+ 20
+9192.000122070313
+ 10
+10250.00012207031
+ 20
+9194.000122070312
+ 10
+10230.00012207031
+ 20
+9194.000122070312
+ 10
+10210.00012207031
+ 20
+9192.000122070313
+ 10
+10204.99987792969
+ 20
+9190.000122070314
+ 10
+10190.00012207031
+ 20
+9185.000122070311
+ 10
+10170.00012207031
+ 20
+9177.000122070312
+ 10
+10151.99987792969
+ 20
+9170.000122070312
+ 10
+10149.99987792969
+ 20
+9169.000122070313
+ 10
+10129.99987792969
+ 20
+9161.999877929687
+ 10
+10110.00012207031
+ 20
+9157.000122070312
+ 10
+10090.00012207031
+ 20
+9156.000122070313
+ 10
+10070.00012207031
+ 20
+9154.000122070312
+ 10
+10030.00012207031
+ 20
+9152.000122070312
+ 10
+10010.00012207031
+ 20
+9150.000122070313
+ 10
+9990.000122070313
+ 20
+9148.999877929687
+ 10
+9970.000122070313
+ 20
+9148.999877929687
+ 10
+9967.000122070313
+ 20
+9150.000122070313
+ 10
+9950.000122070314
+ 20
+9154.000122070312
+ 10
+9929.999877929688
+ 20
+9156.000122070313
+ 10
+9909.999877929688
+ 20
+9161.000122070312
+ 10
+9890.000122070313
+ 20
+9165.000122070313
+ 10
+9873.000122070314
+ 20
+9170.000122070312
+ 10
+9870.000122070313
+ 20
+9170.999877929688
+ 10
+9850.000122070312
+ 20
+9176.000122070313
+ 10
+9830.000122070313
+ 20
+9180.000122070312
+ 10
+9790.000122070313
+ 20
+9190.000122070314
+ 10
+9770.000122070314
+ 20
+9199.000122070312
+ 10
+9752.000122070313
+ 20
+9210.000122070312
+ 10
+9750.000122070312
+ 20
+9211.000122070313
+ 10
+9730.000122070313
+ 20
+9223.000122070313
+ 10
+9719.000122070312
+ 20
+9230.000122070313
+ 10
+9709.999877929689
+ 20
+9235.000122070312
+ 10
+9689.999877929688
+ 20
+9247.999877929688
+ 10
+9687.999877929689
+ 20
+9249.999877929687
+ 10
+9670.000122070312
+ 20
+9263.000122070312
+ 10
+9650.000122070313
+ 20
+9273.000122070312
+ 10
+9634.000122070313
+ 20
+9290.000122070313
+ 10
+9630.000122070313
+ 20
+9293.999877929687
+ 10
+9616.000122070312
+ 20
+9310.000122070311
+ 10
+9610.000122070312
+ 20
+9317.000122070313
+ 10
+9599.999877929688
+ 20
+9330.000122070313
+ 10
+9590.000122070312
+ 20
+9345.000122070313
+ 10
+9587.000122070312
+ 20
+9350.000122070312
+ 10
+9577.000122070312
+ 20
+9370.000122070313
+ 10
+9570.000122070313
+ 20
+9381.999877929688
+ 10
+9565.000122070314
+ 20
+9390.000122070313
+ 10
+9550.000122070313
+ 20
+9406.000122070313
+ 10
+9538.000122070313
+ 20
+9430.000122070312
+ 10
+9530.000122070312
+ 20
+9442.000122070313
+ 10
+9526.000122070312
+ 20
+9450.000122070312
+ 10
+9515.000122070313
+ 20
+9469.999877929687
+ 10
+9510.000122070312
+ 20
+9476.000122070313
+ 10
+9502.000122070311
+ 20
+9489.999877929689
+ 10
+9491.999877929687
+ 20
+9510.000122070312
+ 10
+9489.999877929689
+ 20
+9513.000122070312
+ 10
+9480.000122070313
+ 20
+9530.000122070312
+ 10
+9471.000122070313
+ 20
+9550.000122070313
+ 10
+9461.621887207034
+ 20
+9568.756530761721
+ 10
+9451.000122070313
+ 20
+9590.000122070312
+ 10
+9450.000122070312
+ 20
+9593.000122070312
+ 10
+9442.000122070313
+ 20
+9610.000122070312
+ 10
+9432.000122070313
+ 20
+9630.000122070313
+ 10
+9430.000122070312
+ 20
+9634.999877929688
+ 10
+9423.000122070313
+ 20
+9650.000122070313
+ 10
+9416.000122070313
+ 20
+9670.000122070312
+ 10
+9410.000122070313
+ 20
+9683.000122070312
+ 10
+9407.000122070312
+ 20
+9689.999877929688
+ 10
+9400.000122070313
+ 20
+9709.999877929689
+ 10
+9394.000122070313
+ 20
+9730.000122070313
+ 10
+9390.000122070313
+ 20
+9742.000122070313
+ 10
+9386.000122070312
+ 20
+9750.000122070312
+ 10
+9378.000122070313
+ 20
+9770.000122070314
+ 10
+9370.000122070313
+ 20
+9786.999877929687
+ 10
+9368.000122070313
+ 20
+9790.000122070313
+ 10
+9359.000122070312
+ 20
+9810.000122070313
+ 10
+9351.000122070313
+ 20
+9830.000122070313
+ 10
+9341.000122070312
+ 20
+9850.000122070312
+ 10
+9332.000122070313
+ 20
+9870.000122070313
+ 10
+9330.000122070313
+ 20
+9874.999877929688
+ 10
+9323.000122070313
+ 20
+9890.000122070313
+ 10
+9313.999877929687
+ 20
+9909.999877929688
+ 10
+9310.000122070311
+ 20
+9920.000122070312
+ 10
+9304.999877929686
+ 20
+9929.999877929688
+ 10
+9298.000122070313
+ 20
+9950.000122070314
+ 10
+9290.000122070313
+ 20
+9967.000122070313
+ 10
+9289.000122070312
+ 20
+9970.000122070313
+ 10
+9280.999877929687
+ 20
+9990.000122070313
+ 10
+9275.118713378907
+ 20
+10001.7626953125
+ 10
+9271.000122070311
+ 20
+10010.00012207031
+ 10
+9269.999877929688
+ 20
+10013.00012207031
+ 10
+9260.999877929688
+ 20
+10030.00012207031
+ 10
+9249.999877929687
+ 20
+10043.00012207031
+ 10
+9245.000122070313
+ 20
+10050.00012207031
+ 10
+9230.000122070313
+ 20
+10070.00012207031
+ 10
+9216.999877929687
+ 20
+10090.00012207031
+ 10
+9210.000122070312
+ 20
+10099.00012207031
+ 10
+9202.000122070312
+ 20
+10110.00012207031
+ 10
+9190.000122070314
+ 20
+10124.00012207031
+ 10
+9185.000122070311
+ 20
+10129.99987792969
+ 10
+9170.000122070312
+ 20
+10149.00012207031
+ 10
+9169.000122070313
+ 20
+10149.99987792969
+ 10
+9153.000122070313
+ 20
+10170.00012207031
+ 10
+9137.999877929688
+ 20
+10190.00012207031
+ 10
+9106.000122070312
+ 20
+10230.00012207031
+ 10
+9090.000122070312
+ 20
+10248.99987792969
+ 10
+9090.000122070312
+ 20
+10250.00012207031
+ 10
+9070.000122070313
+ 20
+10275.00012207031
+ 10
+9059.000122070314
+ 20
+10290.00012207031
+ 10
+9049.999877929687
+ 20
+10301.00012207031
+ 10
+9043.000122070314
+ 20
+10310.00012207031
+ 10
+9029.999877929688
+ 20
+10327.99987792969
+ 10
+9010.000122070312
+ 20
+10356.00012207031
+  0
+LWPOLYLINE
+  5
+13
+102
+{ACAD_XDICTIONARY
+360
+14
+102
+}
+330
+2
+100
+AcDbEntity
+  8
+GEO1
+100
+AcDbPolyline
+ 90
+      157
+ 70
+     1
+ 43
+0.0
+ 10
+9670.000122070312
+ 20
+12450.00012207031
+ 10
+9870.000122070313
+ 20
+12462.00012207031
+ 10
+9930.000122070312
+ 20
+12490.00012207031
+ 10
+9950.000122070314
+ 20
+12496.00012207031
+ 10
+9970.000122070313
+ 20
+12506.00012207031
+ 10
+9985.000122070312
+ 20
+12510.00012207031
+ 10
+9990.000122070313
+ 20
+12512.00012207031
+ 10
+10010.00012207031
+ 20
+12522.00012207031
+ 10
+10028.00012207031
+ 20
+12530.00012207031
+ 10
+10030.00012207031
+ 20
+12531.00012207031
+ 10
+10050.00012207031
+ 20
+12536.00012207031
+ 10
+10070.00012207031
+ 20
+12547.00012207031
+ 10
+10083.00012207031
+ 20
+12550.00012207031
+ 10
+10090.00012207031
+ 20
+12552.00012207031
+ 10
+10110.00012207031
+ 20
+12561.00012207031
+ 10
+10130.00012207031
+ 20
+12567.00012207031
+ 10
+10137.00012207031
+ 20
+12570.00012207031
+ 10
+10150.00012207031
+ 20
+12576.00012207031
+ 10
+10170.00012207031
+ 20
+12587.00012207031
+ 10
+10183.00012207031
+ 20
+12590.00012207031
+ 10
+10190.00012207031
+ 20
+12592.00012207031
+ 10
+10210.00012207031
+ 20
+12601.00012207031
+ 10
+10230.00012207031
+ 20
+12608.00012207031
+ 10
+10245.00012207031
+ 20
+12610.00012207031
+ 10
+10290.00012207031
+ 20
+12619.00012207031
+ 10
+10310.00012207031
+ 20
+12622.00012207031
+ 10
+10330.00012207031
+ 20
+12623.00012207031
+ 10
+10370.00012207031
+ 20
+12623.00012207031
+ 10
+10390.00012207031
+ 20
+12624.00012207031
+ 10
+10510.00012207031
+ 20
+12624.00012207031
+ 10
+10530.00012207031
+ 20
+12625.00012207031
+ 10
+10548.61651611328
+ 20
+12625.00012207031
+ 10
+10590.00012207031
+ 20
+12625.00012207031
+ 10
+10610.00012207031
+ 20
+12626.00012207031
+ 10
+10650.00012207031
+ 20
+12626.00012207031
+ 10
+10670.00012207031
+ 20
+12627.00012207031
+ 10
+10790.00012207031
+ 20
+12627.00012207031
+ 10
+10810.00012207031
+ 20
+12628.00012207031
+ 10
+10870.00012207031
+ 20
+12628.00012207031
+ 10
+10890.00012207031
+ 20
+12629.00012207031
+ 10
+11010.00012207031
+ 20
+12629.00012207031
+ 10
+11030.00012207031
+ 20
+12630.00012207031
+ 10
+11050.00012207031
+ 20
+12630.00012207031
+ 10
+11070.00012207031
+ 20
+12628.00012207031
+ 10
+11090.00012207031
+ 20
+12623.00012207031
+ 10
+11110.00012207031
+ 20
+12619.00012207031
+ 10
+11130.00012207031
+ 20
+12614.00012207031
+ 10
+11150.00012207031
+ 20
+12610.00012207031
+ 10
+11190.00012207031
+ 20
+12600.00012207031
+ 10
+11210.00012207031
+ 20
+12596.00012207031
+ 10
+11230.00012207031
+ 20
+12591.00012207031
+ 10
+11250.00012207031
+ 20
+12595.00012207031
+ 10
+11270.00012207031
+ 20
+12598.00012207031
+ 10
+11290.00012207031
+ 20
+12593.00012207031
+ 10
+11310.00012207031
+ 20
+12595.00012207031
+ 10
+11330.00012207031
+ 20
+12598.00012207031
+ 10
+11350.00012207031
+ 20
+12597.00012207031
+ 10
+11370.00012207031
+ 20
+12601.00012207031
+ 10
+11390.00012207031
+ 20
+12603.00012207031
+ 10
+11430.00012207031
+ 20
+12603.00012207031
+ 10
+11450.00012207031
+ 20
+12608.00012207031
+ 10
+11463.00012207031
+ 20
+12610.00012207031
+ 10
+11470.00012207031
+ 20
+12611.00012207031
+ 10
+11490.00012207031
+ 20
+12617.00012207031
+ 10
+11510.00012207031
+ 20
+12620.00012207031
+ 10
+11530.00012207031
+ 20
+12624.00012207031
+ 10
+11550.00012207031
+ 20
+12630.00012207031
+ 10
+11570.00012207031
+ 20
+12633.00012207031
+ 10
+11590.00012207031
+ 20
+12638.00012207031
+ 10
+11610.00012207031
+ 20
+12644.00012207031
+ 10
+11690.00012207031
+ 20
+12660.00012207031
+ 10
+11710.00012207031
+ 20
+12666.00012207031
+ 10
+11730.00012207031
+ 20
+12669.00012207031
+ 10
+11810.00012207031
+ 20
+12685.00012207031
+ 10
+11830.00012207031
+ 20
+12690.00012207031
+ 10
+11850.00012207031
+ 20
+12692.00012207031
+ 10
+11870.00012207031
+ 20
+12696.00012207031
+ 10
+11890.00012207031
+ 20
+12702.00012207031
+ 10
+11930.00012207031
+ 20
+12708.00012207031
+ 10
+11937.00012207031
+ 20
+12710.00012207031
+ 10
+11950.00012207031
+ 20
+12714.00012207031
+ 10
+11970.00012207031
+ 20
+12719.00012207031
+ 10
+11990.00012207031
+ 20
+12721.00012207031
+ 10
+12010.00012207031
+ 20
+12726.00012207031
+ 10
+12021.00012207031
+ 20
+12730.00012207031
+ 10
+12030.00012207031
+ 20
+12733.00012207031
+ 10
+12070.00012207031
+ 20
+12739.00012207031
+ 10
+12090.00012207031
+ 20
+12745.00012207031
+ 10
+12110.00012207031
+ 20
+12750.00012207031
+ 10
+12130.00012207031
+ 20
+12756.00012207031
+ 10
+12150.00012207031
+ 20
+12764.00012207031
+ 10
+12163.00012207031
+ 20
+12770.00012207031
+ 10
+12170.00012207031
+ 20
+12773.00012207031
+ 10
+12190.00012207031
+ 20
+12781.00012207031
+ 10
+12210.00012207031
+ 20
+12790.00012207031
+ 10
+12250.00012207031
+ 20
+12806.00012207031
+ 10
+12259.00012207031
+ 20
+12810.00012207031
+ 10
+12270.00012207031
+ 20
+12815.00012207031
+ 10
+12290.00012207031
+ 20
+12823.00012207031
+ 10
+12306.00012207031
+ 20
+12830.00012207031
+ 10
+12310.00012207031
+ 20
+12832.00012207031
+ 10
+12350.00012207031
+ 20
+12848.00012207031
+ 10
+12354.00012207031
+ 20
+12850.00012207031
+ 10
+12370.00012207031
+ 20
+12857.00012207031
+ 10
+12390.00012207031
+ 20
+12866.00012207031
+ 10
+12410.00012207031
+ 20
+12874.00012207031
+ 10
+12450.00012207031
+ 20
+12894.00012207031
+ 10
+12470.00012207031
+ 20
+12905.00012207031
+ 10
+12490.00012207031
+ 20
+12915.00012207031
+ 10
+12510.00012207031
+ 20
+12926.00012207031
+ 10
+12517.00012207031
+ 20
+12930.00012207031
+ 10
+12530.00012207031
+ 20
+12937.00012207031
+ 10
+12550.00012207031
+ 20
+12947.00012207031
+ 10
+12734.00012207031
+ 20
+12890.00012207031
+ 10
+12914.00012207031
+ 20
+12830.00012207031
+ 10
+12990.00012207031
+ 20
+12706.00012207031
+ 10
+12990.00012207031
+ 20
+12511.00012207031
+ 10
+12990.00012207031
+ 20
+12317.00012207031
+ 10
+12990.00012207031
+ 20
+12172.00012207031
+ 10
+12916.42028808594
+ 20
+12241.40490722656
+ 10
+12683.42047119141
+ 20
+12267.29370117188
+ 10
+12465.21429443359
+ 20
+12234.00811767578
+ 10
+12302.48431396484
+ 20
+12156.34149169922
+ 10
+12136.05590820312
+ 20
+12093.46850585938
+ 10
+11973.32592773438
+ 20
+12041.69067382812
+ 10
+11880.86572265625
+ 20
+12019.50030517578
+ 10
+11721.83410644531
+ 20
+12008.40509033203
+ 10
+11629.37390136719
+ 20
+12052.78588867188
+ 10
+11548.00891113281
+ 20
+12067.57971191406
+ 10
+11448.15191650391
+ 20
+12041.69067382812
+ 10
+11403.77087402344
+ 20
+12019.50030517578
+ 10
+11300.21551513672
+ 20
+12008.40509033203
+ 10
+11229.94567871094
+ 20
+12082.37329101562
+ 10
+11085.70770263672
+ 20
+12134.15087890625
+ 10
+10978.45391845703
+ 20
+12123.05572509766
+ 10
+10889.69207763672
+ 20
+12086.07171630859
+ 10
+10797.23187255859
+ 20
+12078.67492675781
+ 10
+10678.88269042969
+ 20
+12078.67492675781
+ 10
+10542.04168701172
+ 20
+12074.97650146484
+ 10
+10312.74029541016
+ 20
+12063.88128662109
+ 10
+10161.10552978516
+ 20
+12067.57971191406
+ 10
+10057.55010986328
+ 20
+12089.77008056641
+ 10
+9990.978698730467
+ 20
+12060.18292236328
+ 10
+9917.010498046877
+ 20
+11989.9130859375
+ 10
+9883.72491455078
+ 20
+11952.92889404297
+ 10
+9850.439086914063
+ 20
+11904.84967041016
+ 10
+9839.343872070314
+ 20
+11845.67510986328
+ 10
+9761.677307128906
+ 20
+11816.087890625
+ 10
+9676.613891601562
+ 20
+11871.56390380859
+ 10
+9647.02667236328
+ 20
+11912.24652099609
+ 10
+9565.661682128906
+ 20
+11886.35748291016
+ 10
+9480.59832763672
+ 20
+11875.26232910156
+ 10
+9395.534912109377
+ 20
+11938.13531494141
+ 10
+9332.661926269533
+ 20
+11993.61151123047
+ 10
+9325.265075683594
+ 20
+12089.77008056641
+ 10
+9388.137878417968
+ 20
+12167.43670654297
+ 10
+9447.3125
+ 20
+12370.84912109375
+  0
+LWPOLYLINE
+  5
+17
+102
+{ACAD_XDICTIONARY
+360
+18
+102
+}
+330
+2
+100
+AcDbEntity
+  8
+GEO3
+100
+AcDbPolyline
+ 90
+       57
+ 70
+     1
+ 43
+0.0
+ 10
+9002.330688476563
+ 20
+11533.2451171875
+ 10
+9010.000122070312
+ 20
+11752.00012207031
+ 10
+9013.000122070312
+ 20
+11970.00012207031
+ 10
+9157.000122070312
+ 20
+12170.00012207031
+ 10
+9447.3125
+ 20
+12370.84912109375
+ 10
+9388.137878417968
+ 20
+12167.43670654297
+ 10
+9325.265075683594
+ 20
+12089.77008056641
+ 10
+9332.661926269533
+ 20
+11993.61151123047
+ 10
+9395.534912109377
+ 20
+11938.13531494141
+ 10
+9480.59832763672
+ 20
+11875.26232910156
+ 10
+9552.859497070313
+ 20
+11884.68768310547
+ 10
+9565.661682128906
+ 20
+11886.35748291016
+ 10
+9612.674926757813
+ 20
+11901.31628417969
+ 10
+9647.02667236328
+ 20
+11912.24652099609
+ 10
+9676.613891601562
+ 20
+11871.56390380859
+ 10
+9729.001525878906
+ 20
+11837.39831542969
+ 10
+9761.677307128906
+ 20
+11816.087890625
+ 10
+9806.35772705078
+ 20
+11833.10888671875
+ 10
+9839.343872070314
+ 20
+11845.67510986328
+ 10
+9842.553100585938
+ 20
+11862.79107666016
+ 10
+9850.439086914063
+ 20
+11904.84967041016
+ 10
+9872.323120117187
+ 20
+11936.45971679688
+ 10
+9883.72491455078
+ 20
+11952.92889404297
+ 10
+9917.010498046877
+ 20
+11989.9130859375
+ 10
+9990.978698730467
+ 20
+12060.18292236328
+ 10
+10057.55010986328
+ 20
+12089.77008056641
+ 10
+10161.10552978516
+ 20
+12067.57971191406
+ 10
+10312.74029541016
+ 20
+12063.88128662109
+ 10
+10409.12310791016
+ 20
+12068.54510498047
+ 10
+10542.04168701172
+ 20
+12074.97650146484
+ 10
+10678.88269042969
+ 20
+12078.67492675781
+ 10
+10797.23187255859
+ 20
+12078.67492675781
+ 10
+10869.17712402344
+ 20
+12084.43048095703
+ 10
+10826.95349121094
+ 20
+11994.68408203125
+ 10
+10659.29229736328
+ 20
+11960.16552734375
+ 10
+10496.56231689453
+ 20
+11960.16552734375
+ 10
+10348.62591552734
+ 20
+11955.23431396484
+ 10
+10245.07049560547
+ 20
+11920.71588134766
+ 10
+10230.00012207031
+ 20
+11861.00012207031
+ 10
+10190.82708740234
+ 20
+11827.02288818359
+ 10
+10230.27691650391
+ 20
+11684.01770019531
+ 10
+10245.07049560547
+ 20
+11614.98071289062
+ 10
+10171.10229492188
+ 20
+11550.87487792969
+ 10
+10052.75329589844
+ 20
+11555.80627441406
+ 10
+9875.2294921875
+ 20
+11541.01251220703
+ 10
+9811.123901367189
+ 20
+11452.25067138672
+ 10
+9830.848693847656
+ 20
+11309.24548339844
+ 10
+9860.435913085938
+ 20
+11161.30932617188
+ 10
+9766.742919921878
+ 20
+11121.85949707031
+ 10
+9623.737670898437
+ 20
+11141.58447265625
+ 10
+9475.801330566406
+ 20
+11092.27227783203
+ 10
+9431.420471191406
+ 20
+10959.12951660156
+ 10
+9291.072082519532
+ 20
+10942.26647949219
+ 10
+9291.628295898439
+ 20
+10945.88287353516
+ 10
+9300.394897460938
+ 20
+11103.68188476562
+ 10
+9274.095275878906
+ 20
+11208.88092041016
+ 10
+9250.000122070312
+ 20
+11310.00012207031
+  0
+LWPOLYLINE
+  5
+1B
+102
+{ACAD_XDICTIONARY
+360
+1C
+102
+}
+330
+2
+100
+AcDbEntity
+  8
+GEO4
+100
+AcDbPolyline
+ 90
+      191
+ 70
+     1
+ 43
+0.0
+ 10
+12990.00012207031
+ 20
+12172.00012207031
+ 10
+12990.00012207031
+ 20
+11950.00012207031
+ 10
+12889.84387207031
+ 20
+11644.56787109375
+ 10
+12876.6939086914
+ 20
+11309.24548339844
+ 10
+13014.76788330078
+ 20
+11013.37292480469
+ 10
+12970.00012207031
+ 20
+10844.00012207031
+ 10
+12930.00012207031
+ 20
+10825.00012207031
+ 10
+12903.00012207031
+ 20
+10810.00012207031
+ 10
+12890.00012207031
+ 20
+10807.00012207031
+ 10
+12870.00012207031
+ 20
+10799.00012207031
+ 10
+12850.00012207031
+ 20
+10790.00012207031
+ 10
+12830.00012207031
+ 20
+10790.00012207031
+ 10
+12810.00012207031
+ 20
+10770.00012207031
+ 10
+12670.00012207031
+ 20
+10770.00012207031
+ 10
+12630.00012207031
+ 20
+10768.00012207031
+ 10
+12610.00012207031
+ 20
+10769.00012207031
+ 10
+12570.00012207031
+ 20
+10769.00012207031
+ 10
+12550.00012207031
+ 20
+10770.00012207031
+ 10
+12530.00012207031
+ 20
+10770.00012207031
+ 10
+12490.00012207031
+ 20
+10778.00012207031
+ 10
+12470.00012207031
+ 20
+10780.00012207031
+ 10
+12450.00012207031
+ 20
+10781.00012207031
+ 10
+12410.00012207031
+ 20
+10787.00012207031
+ 10
+12390.00012207031
+ 20
+10789.00012207031
+ 10
+12370.00012207031
+ 20
+10790.00012207031
+ 10
+12350.00012207031
+ 20
+10790.00012207031
+ 10
+12330.00012207031
+ 20
+10805.00012207031
+ 10
+12310.00012207031
+ 20
+10809.00012207031
+ 10
+12308.00012207031
+ 20
+10810.00012207031
+ 10
+12290.00012207031
+ 20
+10826.00012207031
+ 10
+12270.00012207031
+ 20
+10830.00012207031
+ 10
+12250.00012207031
+ 20
+10847.00012207031
+ 10
+12240.00012207031
+ 20
+10850.00012207031
+ 10
+12230.00012207031
+ 20
+10857.00012207031
+ 10
+12210.00012207031
+ 20
+10868.00012207031
+ 10
+12204.00012207031
+ 20
+10870.00012207031
+ 10
+12190.00012207031
+ 20
+10881.00012207031
+ 10
+12170.00012207031
+ 20
+10889.00012207031
+ 10
+12167.00012207031
+ 20
+10890.00012207031
+ 10
+12150.00012207031
+ 20
+10902.00012207031
+ 10
+12130.00012207031
+ 20
+10910.00012207031
+ 10
+12129.00012207031
+ 20
+10910.00012207031
+ 10
+12110.00012207031
+ 20
+10924.00012207031
+ 10
+12094.00012207031
+ 20
+10930.00012207031
+ 10
+12090.00012207031
+ 20
+10932.00012207031
+ 10
+12070.00012207031
+ 20
+10946.00012207031
+ 10
+12061.00012207031
+ 20
+10950.00012207031
+ 10
+12050.00012207031
+ 20
+10957.00012207031
+ 10
+12030.00012207031
+ 20
+10967.00012207031
+ 10
+12025.00012207031
+ 20
+10970.00012207031
+ 10
+12010.00012207031
+ 20
+10981.00012207031
+ 10
+11990.00012207031
+ 20
+10989.00012207031
+ 10
+11988.00012207031
+ 20
+10990.00012207031
+ 10
+11970.00012207031
+ 20
+11003.00012207031
+ 10
+11952.00012207031
+ 20
+11010.00012207031
+ 10
+11950.00012207031
+ 20
+11011.00012207031
+ 10
+11930.00012207031
+ 20
+11026.00012207031
+ 10
+11920.00012207031
+ 20
+11030.00012207031
+ 10
+11910.00012207031
+ 20
+11037.00012207031
+ 10
+11890.00012207031
+ 20
+11048.00012207031
+ 10
+11885.00012207031
+ 20
+11050.00012207031
+ 10
+11870.00012207031
+ 20
+11061.00012207031
+ 10
+11850.00012207031
+ 20
+11069.00012207031
+ 10
+11848.00012207031
+ 20
+11070.00012207031
+ 10
+11830.00012207031
+ 20
+11084.00012207031
+ 10
+11810.00012207031
+ 20
+11090.00012207031
+ 10
+11790.00012207031
+ 20
+11106.00012207031
+ 10
+11779.00012207031
+ 20
+11110.00012207031
+ 10
+11770.00012207031
+ 20
+11116.00012207031
+ 10
+11750.00012207031
+ 20
+11128.00012207031
+ 10
+11745.00012207031
+ 20
+11130.00012207031
+ 10
+11730.00012207031
+ 20
+11141.00012207031
+ 10
+11710.00012207031
+ 20
+11149.00012207031
+ 10
+11708.00012207031
+ 20
+11150.00012207031
+ 10
+11690.00012207031
+ 20
+11165.00012207031
+ 10
+11678.00012207031
+ 20
+11170.00012207031
+ 10
+11670.00012207031
+ 20
+11176.00012207031
+ 10
+11650.00012207031
+ 20
+11188.00012207031
+ 10
+11647.00012207031
+ 20
+11190.00012207031
+ 10
+11630.00012207031
+ 20
+11204.00012207031
+ 10
+11616.00012207031
+ 20
+11210.00012207031
+ 10
+11610.00012207031
+ 20
+11214.00012207031
+ 10
+11590.00012207031
+ 20
+11227.00012207031
+ 10
+11570.00012207031
+ 20
+11242.00012207031
+ 10
+11553.00012207031
+ 20
+11250.00012207031
+ 10
+11550.00012207031
+ 20
+11252.00012207031
+ 10
+11510.00012207031
+ 20
+11282.00012207031
+ 10
+11493.00012207031
+ 20
+11290.00012207031
+ 10
+11490.00012207031
+ 20
+11292.00012207031
+ 10
+11470.00012207031
+ 20
+11307.00012207031
+ 10
+11465.00012207031
+ 20
+11310.00012207031
+ 10
+11450.00012207031
+ 20
+11322.00012207031
+ 10
+11431.00012207031
+ 20
+11330.00012207031
+ 10
+11430.00012207031
+ 20
+11331.00012207031
+ 10
+11410.00012207031
+ 20
+11347.00012207031
+ 10
+11404.00012207031
+ 20
+11350.00012207031
+ 10
+11390.00012207031
+ 20
+11361.00012207031
+ 10
+11370.00012207031
+ 20
+11370.00012207031
+ 10
+11350.00012207031
+ 20
+11387.00012207031
+ 10
+11344.00012207031
+ 20
+11390.00012207031
+ 10
+11330.00012207031
+ 20
+11401.00012207031
+ 10
+11310.00012207031
+ 20
+11410.00012207031
+ 10
+11309.00012207031
+ 20
+11410.00012207031
+ 10
+11290.00012207031
+ 20
+11424.00012207031
+ 10
+11270.00012207031
+ 20
+11429.00012207031
+ 10
+11268.00012207031
+ 20
+11430.00012207031
+ 10
+11250.00012207031
+ 20
+11443.00012207031
+ 10
+11230.00012207031
+ 20
+11449.00012207031
+ 10
+11226.00012207031
+ 20
+11450.00012207031
+ 10
+11210.00012207031
+ 20
+11460.00012207031
+ 10
+11190.00012207031
+ 20
+11468.00012207031
+ 10
+11183.00012207031
+ 20
+11470.00012207031
+ 10
+11170.00012207031
+ 20
+11478.00012207031
+ 10
+11150.00012207031
+ 20
+11486.00012207031
+ 10
+11135.00012207031
+ 20
+11490.00012207031
+ 10
+11110.00012207031
+ 20
+11505.00012207031
+ 10
+11090.00012207031
+ 20
+11510.00012207031
+ 10
+11089.00012207031
+ 20
+11510.00012207031
+ 10
+11070.00012207031
+ 20
+11523.00012207031
+ 10
+11050.00012207031
+ 20
+11529.00012207031
+ 10
+11047.00012207031
+ 20
+11530.00012207031
+ 10
+11030.00012207031
+ 20
+11541.00012207031
+ 10
+11010.00012207031
+ 20
+11548.00012207031
+ 10
+11003.00012207031
+ 20
+11550.00012207031
+ 10
+10990.00012207031
+ 20
+11558.00012207031
+ 10
+10970.00012207031
+ 20
+11567.00012207031
+ 10
+10958.00012207031
+ 20
+11570.00012207031
+ 10
+10950.00012207031
+ 20
+11574.00012207031
+ 10
+10930.00012207031
+ 20
+11583.00012207031
+ 10
+10910.00012207031
+ 20
+11587.00012207031
+ 10
+10870.00012207031
+ 20
+11589.00012207031
+ 10
+10865.00012207031
+ 20
+11590.00012207031
+ 10
+10850.00012207031
+ 20
+11592.00012207031
+ 10
+10810.00012207031
+ 20
+11600.00012207031
+ 10
+10790.00012207031
+ 20
+11603.00012207031
+ 10
+10750.00012207031
+ 20
+11607.00012207031
+ 10
+10730.00012207031
+ 20
+11608.00012207031
+ 10
+10710.00012207031
+ 20
+11610.00012207031
+ 10
+10708.00012207031
+ 20
+11610.00012207031
+ 10
+10690.00012207031
+ 20
+11613.00012207031
+ 10
+10670.00012207031
+ 20
+11617.00012207031
+ 10
+10630.00012207031
+ 20
+11623.00012207031
+ 10
+10570.00012207031
+ 20
+11629.00012207031
+ 10
+10550.00012207031
+ 20
+11630.00012207031
+ 10
+10549.00012207031
+ 20
+11630.00012207031
+ 10
+10530.00012207031
+ 20
+11634.00012207031
+ 10
+10510.00012207031
+ 20
+11638.00012207031
+ 10
+10490.00012207031
+ 20
+11643.00012207031
+ 10
+10470.00012207031
+ 20
+11647.00012207031
+ 10
+10450.00012207031
+ 20
+11649.00012207031
+ 10
+10447.00012207031
+ 20
+11650.00012207031
+ 10
+10430.00012207031
+ 20
+11656.00012207031
+ 10
+10410.00012207031
+ 20
+11662.00012207031
+ 10
+10390.00012207031
+ 20
+11666.00012207031
+ 10
+10370.00012207031
+ 20
+11669.00012207031
+ 10
+10365.00012207031
+ 20
+11670.00012207031
+ 10
+10350.00012207031
+ 20
+11675.00012207031
+ 10
+10330.00012207031
+ 20
+11681.00012207031
+ 10
+10310.00012207031
+ 20
+11686.00012207031
+ 10
+10290.00012207031
+ 20
+11689.00012207031
+ 10
+10284.00012207031
+ 20
+11690.00012207031
+ 10
+10270.00012207031
+ 20
+11695.00012207031
+ 10
+10250.00012207031
+ 20
+11706.00012207031
+ 10
+10243.00012207031
+ 20
+11710.00012207031
+ 10
+10230.00012207031
+ 20
+11720.00012207031
+ 10
+10218.34069824219
+ 20
+11727.28747558594
+ 10
+10190.82708740234
+ 20
+11827.02288818359
+ 10
+10230.00012207031
+ 20
+11861.00012207031
+ 10
+10245.07049560547
+ 20
+11920.71588134766
+ 10
+10348.62591552734
+ 20
+11955.23431396484
+ 10
+10496.56231689453
+ 20
+11960.16552734375
+ 10
+10659.29229736328
+ 20
+11960.16552734375
+ 10
+10826.95349121094
+ 20
+11994.68408203125
+ 10
+10869.17712402344
+ 20
+12084.43048095703
+ 10
+10889.69207763672
+ 20
+12086.07171630859
+ 10
+10978.45391845703
+ 20
+12123.05572509766
+ 10
+11085.70770263672
+ 20
+12134.15087890625
+ 10
+11229.94567871094
+ 20
+12082.37329101562
+ 10
+11300.21551513672
+ 20
+12008.40509033203
+ 10
+11403.77087402344
+ 20
+12019.50030517578
+ 10
+11448.15191650391
+ 20
+12041.69067382812
+ 10
+11548.00891113281
+ 20
+12067.57971191406
+ 10
+11629.37390136719
+ 20
+12052.78588867188
+ 10
+11721.83410644531
+ 20
+12008.40509033203
+ 10
+11880.86572265625
+ 20
+12019.50030517578
+ 10
+11973.32592773438
+ 20
+12041.69067382812
+ 10
+12136.05590820312
+ 20
+12093.46850585938
+ 10
+12302.48431396484
+ 20
+12156.34149169922
+ 10
+12465.21429443359
+ 20
+12234.00811767578
+ 10
+12683.42047119141
+ 20
+12267.29370117188
+ 10
+12899.50689697266
+ 20
+12243.28430175781
+  0
+LWPOLYLINE
+  5
+1F
+102
+{ACAD_XDICTIONARY
+360
+20
+102
+}
+330
+2
+100
+AcDbEntity
+  8
+GEO5
+100
+AcDbPolyline
+ 90
+      321
+ 70
+     1
+ 43
+0.0
+ 10
+12970.00012207031
+ 20
+10844.00012207031
+ 10
+12990.00012207031
+ 20
+10706.00012207031
+ 10
+12990.00012207031
+ 20
+10408.00012207031
+ 10
+12970.00012207031
+ 20
+10243.00012207031
+ 10
+12990.00012207031
+ 20
+10025.00012207031
+ 10
+12630.00012207031
+ 20
+10133.00012207031
+ 10
+12610.00012207031
+ 20
+10147.00012207031
+ 10
+12607.00012207031
+ 20
+10150.00012207031
+ 10
+12590.00012207031
+ 20
+10163.00012207031
+ 10
+12581.00012207031
+ 20
+10170.00012207031
+ 10
+12570.00012207031
+ 20
+10178.00012207031
+ 10
+12550.00012207031
+ 20
+10193.00012207031
+ 10
+12530.00012207031
+ 20
+10209.00012207031
+ 10
+12528.00012207031
+ 20
+10210.00012207031
+ 10
+12510.00012207031
+ 20
+10224.00012207031
+ 10
+12490.00012207031
+ 20
+10239.00012207031
+ 10
+12475.00012207031
+ 20
+10250.00012207031
+ 10
+12470.00012207031
+ 20
+10254.00012207031
+ 10
+12450.00012207031
+ 20
+10269.00012207031
+ 10
+12449.00012207031
+ 20
+10270.00012207031
+ 10
+12430.00012207031
+ 20
+10285.00012207031
+ 10
+12423.00012207031
+ 20
+10290.00012207031
+ 10
+12410.00012207031
+ 20
+10300.00012207031
+ 10
+12396.00012207031
+ 20
+10310.00012207031
+ 10
+12390.00012207031
+ 20
+10315.00012207031
+ 10
+12373.00012207031
+ 20
+10330.00012207031
+ 10
+12370.00012207031
+ 20
+10332.00012207031
+ 10
+12350.00012207031
+ 20
+10350.00012207031
+ 10
+12330.00012207031
+ 20
+10364.00012207031
+ 10
+12322.00012207031
+ 20
+10370.00012207031
+ 10
+12310.00012207031
+ 20
+10378.00012207031
+ 10
+12290.00012207031
+ 20
+10394.00012207031
+ 10
+12270.00012207031
+ 20
+10409.00012207031
+ 10
+12269.00012207031
+ 20
+10410.00012207031
+ 10
+12250.00012207031
+ 20
+10424.00012207031
+ 10
+12243.00012207031
+ 20
+10430.00012207031
+ 10
+12230.00012207031
+ 20
+10440.00012207031
+ 10
+12216.00012207031
+ 20
+10450.00012207031
+ 10
+12210.00012207031
+ 20
+10455.00012207031
+ 10
+12190.00012207031
+ 20
+10470.00012207031
+ 10
+12165.00012207031
+ 20
+10490.00012207031
+ 10
+12150.00012207031
+ 20
+10501.00012207031
+ 10
+12130.00012207031
+ 20
+10516.00012207031
+ 10
+12112.00012207031
+ 20
+10530.00012207031
+ 10
+12110.00012207031
+ 20
+10532.00012207031
+ 10
+12090.00012207031
+ 20
+10547.00012207031
+ 10
+12087.00012207031
+ 20
+10550.00012207031
+ 10
+12070.00012207031
+ 20
+10562.00012207031
+ 10
+12050.00012207031
+ 20
+10578.00012207031
+ 10
+12030.00012207031
+ 20
+10593.00012207031
+ 10
+12010.00012207031
+ 20
+10609.00012207031
+ 10
+12008.00012207031
+ 20
+10610.00012207031
+ 10
+11990.00012207031
+ 20
+10624.00012207031
+ 10
+11970.00012207031
+ 20
+10639.00012207031
+ 10
+11956.00012207031
+ 20
+10650.00012207031
+ 10
+11950.00012207031
+ 20
+10655.00012207031
+ 10
+11930.00012207031
+ 20
+10670.00012207031
+ 10
+11910.00012207031
+ 20
+10686.00012207031
+ 10
+11906.00012207031
+ 20
+10690.00012207031
+ 10
+11890.00012207031
+ 20
+10703.00012207031
+ 10
+11882.00012207031
+ 20
+10710.00012207031
+ 10
+11858.00012207031
+ 20
+10730.00012207031
+ 10
+11850.00012207031
+ 20
+10736.00012207031
+ 10
+11834.00012207031
+ 20
+10750.00012207031
+ 10
+11830.00012207031
+ 20
+10753.00012207031
+ 10
+11812.00012207031
+ 20
+10770.00012207031
+ 10
+11650.00012207031
+ 20
+10932.00012207031
+ 10
+11631.00012207031
+ 20
+10950.00012207031
+ 10
+11630.00012207031
+ 20
+10951.00012207031
+ 10
+11610.00012207031
+ 20
+10969.00012207031
+ 10
+11609.00012207031
+ 20
+10970.00012207031
+ 10
+11590.00012207031
+ 20
+10987.00012207031
+ 10
+11587.00012207031
+ 20
+10990.00012207031
+ 10
+11570.00012207031
+ 20
+11006.00012207031
+ 10
+11550.00012207031
+ 20
+11022.00012207031
+ 10
+11539.00012207031
+ 20
+11030.00012207031
+ 10
+11530.00012207031
+ 20
+11037.00012207031
+ 10
+11514.00012207031
+ 20
+11050.00012207031
+ 10
+11510.00012207031
+ 20
+11053.00012207031
+ 10
+11490.00012207031
+ 20
+11069.00012207031
+ 10
+11488.00012207031
+ 20
+11070.00012207031
+ 10
+11470.00012207031
+ 20
+11083.00012207031
+ 10
+11450.00012207031
+ 20
+11097.00012207031
+ 10
+11430.00012207031
+ 20
+11110.00012207031
+ 10
+11410.00012207031
+ 20
+11124.00012207031
+ 10
+11400.00012207031
+ 20
+11130.00012207031
+ 10
+11390.00012207031
+ 20
+11137.00012207031
+ 10
+11370.00012207031
+ 20
+11150.00012207031
+ 10
+11350.00012207031
+ 20
+11164.00012207031
+ 10
+11341.00012207031
+ 20
+11170.00012207031
+ 10
+11330.00012207031
+ 20
+11177.00012207031
+ 10
+11310.00012207031
+ 20
+11190.00012207031
+ 10
+11290.00012207031
+ 20
+11204.00012207031
+ 10
+11281.00012207031
+ 20
+11210.00012207031
+ 10
+11270.00012207031
+ 20
+11217.00012207031
+ 10
+11251.00012207031
+ 20
+11230.00012207031
+ 10
+11250.00012207031
+ 20
+11230.00012207031
+ 10
+11230.00012207031
+ 20
+11242.00012207031
+ 10
+11212.00012207031
+ 20
+11250.00012207031
+ 10
+11210.00012207031
+ 20
+11251.00012207031
+ 10
+11190.00012207031
+ 20
+11259.00012207031
+ 10
+11170.00012207031
+ 20
+11268.00012207031
+ 10
+11150.00012207031
+ 20
+11276.00012207031
+ 10
+11130.00012207031
+ 20
+11285.00012207031
+ 10
+11117.00012207031
+ 20
+11290.00012207031
+ 10
+11110.00012207031
+ 20
+11293.00012207031
+ 10
+11070.00012207031
+ 20
+11309.00012207031
+ 10
+11069.00012207031
+ 20
+11310.00012207031
+ 10
+11050.00012207031
+ 20
+11318.00012207031
+ 10
+11030.00012207031
+ 20
+11326.00012207031
+ 10
+11021.00012207031
+ 20
+11330.00012207031
+ 10
+11010.00012207031
+ 20
+11335.00012207031
+ 10
+10990.00012207031
+ 20
+11344.00012207031
+ 10
+10930.00012207031
+ 20
+11368.00012207031
+ 10
+10924.00012207031
+ 20
+11370.00012207031
+ 10
+10910.00012207031
+ 20
+11374.00012207031
+ 10
+10890.00012207031
+ 20
+11382.00012207031
+ 10
+10870.00012207031
+ 20
+11389.00012207031
+ 10
+10867.00012207031
+ 20
+11390.00012207031
+ 10
+10850.00012207031
+ 20
+11397.00012207031
+ 10
+10830.00012207031
+ 20
+11403.00012207031
+ 10
+10812.00012207031
+ 20
+11410.00012207031
+ 10
+10810.00012207031
+ 20
+11411.00012207031
+ 10
+10770.00012207031
+ 20
+11419.00012207031
+ 10
+10750.00012207031
+ 20
+11424.00012207031
+ 10
+10730.00012207031
+ 20
+11427.00012207031
+ 10
+10713.00012207031
+ 20
+11430.00012207031
+ 10
+10710.00012207031
+ 20
+11431.00012207031
+ 10
+10690.00012207031
+ 20
+11435.00012207031
+ 10
+10630.00012207031
+ 20
+11444.00012207031
+ 10
+10590.00012207031
+ 20
+11448.00012207031
+ 10
+10574.00012207031
+ 20
+11450.00012207031
+ 10
+10570.00012207031
+ 20
+11450.00012207031
+ 10
+10510.00012207031
+ 20
+11453.00012207031
+ 10
+10490.00012207031
+ 20
+11456.00012207031
+ 10
+10470.00012207031
+ 20
+11458.00012207031
+ 10
+10430.00012207031
+ 20
+11462.00012207031
+ 10
+10390.00012207031
+ 20
+11468.00012207031
+ 10
+10370.00012207031
+ 20
+11470.00012207031
+ 10
+10350.00012207031
+ 20
+11474.00012207031
+ 10
+10330.00012207031
+ 20
+11479.00012207031
+ 10
+10310.00012207031
+ 20
+11486.00012207031
+ 10
+10298.00012207031
+ 20
+11490.00012207031
+ 10
+10290.00012207031
+ 20
+11493.00012207031
+ 10
+10250.00012207031
+ 20
+11505.00012207031
+ 10
+10235.00012207031
+ 20
+11510.00012207031
+ 10
+10230.00012207031
+ 20
+11512.00012207031
+ 10
+10210.00012207031
+ 20
+11518.00012207031
+ 10
+10190.00012207031
+ 20
+11525.00012207031
+ 10
+10176.00012207031
+ 20
+11530.00012207031
+ 10
+10170.00012207031
+ 20
+11532.00012207031
+ 10
+10150.00012207031
+ 20
+11539.00012207031
+ 10
+10130.00012207031
+ 20
+11547.00012207031
+ 10
+10121.00012207031
+ 20
+11550.00012207031
+ 10
+10111.79888916016
+ 20
+11553.34613037109
+ 10
+10133.962890625
+ 20
+11552.42248535156
+ 10
+10171.10229492188
+ 20
+11550.87487792969
+ 10
+10245.07049560547
+ 20
+11614.98071289062
+ 10
+10230.27691650391
+ 20
+11684.01770019531
+ 10
+10218.34069824219
+ 20
+11727.28747558594
+ 10
+10230.00012207031
+ 20
+11720.00012207031
+ 10
+10243.00012207031
+ 20
+11710.00012207031
+ 10
+10250.00012207031
+ 20
+11706.00012207031
+ 10
+10270.00012207031
+ 20
+11695.00012207031
+ 10
+10284.00012207031
+ 20
+11690.00012207031
+ 10
+10290.00012207031
+ 20
+11689.00012207031
+ 10
+10310.00012207031
+ 20
+11686.00012207031
+ 10
+10330.00012207031
+ 20
+11681.00012207031
+ 10
+10350.00012207031
+ 20
+11675.00012207031
+ 10
+10365.00012207031
+ 20
+11670.00012207031
+ 10
+10370.00012207031
+ 20
+11669.00012207031
+ 10
+10390.00012207031
+ 20
+11666.00012207031
+ 10
+10410.00012207031
+ 20
+11662.00012207031
+ 10
+10430.00012207031
+ 20
+11656.00012207031
+ 10
+10447.00012207031
+ 20
+11650.00012207031
+ 10
+10450.00012207031
+ 20
+11649.00012207031
+ 10
+10470.00012207031
+ 20
+11647.00012207031
+ 10
+10490.00012207031
+ 20
+11643.00012207031
+ 10
+10510.00012207031
+ 20
+11638.00012207031
+ 10
+10530.00012207031
+ 20
+11634.00012207031
+ 10
+10549.00012207031
+ 20
+11630.00012207031
+ 10
+10550.00012207031
+ 20
+11630.00012207031
+ 10
+10570.00012207031
+ 20
+11629.00012207031
+ 10
+10630.00012207031
+ 20
+11623.00012207031
+ 10
+10670.00012207031
+ 20
+11617.00012207031
+ 10
+10690.00012207031
+ 20
+11613.00012207031
+ 10
+10708.00012207031
+ 20
+11610.00012207031
+ 10
+10710.00012207031
+ 20
+11610.00012207031
+ 10
+10730.00012207031
+ 20
+11608.00012207031
+ 10
+10750.00012207031
+ 20
+11607.00012207031
+ 10
+10790.00012207031
+ 20
+11603.00012207031
+ 10
+10810.00012207031
+ 20
+11600.00012207031
+ 10
+10850.00012207031
+ 20
+11592.00012207031
+ 10
+10865.00012207031
+ 20
+11590.00012207031
+ 10
+10870.00012207031
+ 20
+11589.00012207031
+ 10
+10910.00012207031
+ 20
+11587.00012207031
+ 10
+10930.00012207031
+ 20
+11583.00012207031
+ 10
+10950.00012207031
+ 20
+11574.00012207031
+ 10
+10958.00012207031
+ 20
+11570.00012207031
+ 10
+10970.00012207031
+ 20
+11567.00012207031
+ 10
+10990.00012207031
+ 20
+11558.00012207031
+ 10
+11003.00012207031
+ 20
+11550.00012207031
+ 10
+11010.00012207031
+ 20
+11548.00012207031
+ 10
+11030.00012207031
+ 20
+11541.00012207031
+ 10
+11047.00012207031
+ 20
+11530.00012207031
+ 10
+11050.00012207031
+ 20
+11529.00012207031
+ 10
+11070.00012207031
+ 20
+11523.00012207031
+ 10
+11074.51751708984
+ 20
+11519.90930175781
+ 10
+11089.00012207031
+ 20
+11510.00012207031
+ 10
+11090.00012207031
+ 20
+11510.00012207031
+ 10
+11110.00012207031
+ 20
+11505.00012207031
+ 10
+11135.00012207031
+ 20
+11490.00012207031
+ 10
+11150.00012207031
+ 20
+11486.00012207031
+ 10
+11170.00012207031
+ 20
+11478.00012207031
+ 10
+11183.00012207031
+ 20
+11470.00012207031
+ 10
+11190.00012207031
+ 20
+11468.00012207031
+ 10
+11210.00012207031
+ 20
+11460.00012207031
+ 10
+11226.00012207031
+ 20
+11450.00012207031
+ 10
+11230.00012207031
+ 20
+11449.00012207031
+ 10
+11250.00012207031
+ 20
+11443.00012207031
+ 10
+11268.00012207031
+ 20
+11430.00012207031
+ 10
+11270.00012207031
+ 20
+11429.00012207031
+ 10
+11290.00012207031
+ 20
+11424.00012207031
+ 10
+11309.00012207031
+ 20
+11410.00012207031
+ 10
+11310.00012207031
+ 20
+11410.00012207031
+ 10
+11330.00012207031
+ 20
+11401.00012207031
+ 10
+11344.00012207031
+ 20
+11390.00012207031
+ 10
+11350.00012207031
+ 20
+11387.00012207031
+ 10
+11370.00012207031
+ 20
+11370.00012207031
+ 10
+11390.00012207031
+ 20
+11361.00012207031
+ 10
+11404.00012207031
+ 20
+11350.00012207031
+ 10
+11410.00012207031
+ 20
+11347.00012207031
+ 10
+11430.00012207031
+ 20
+11331.00012207031
+ 10
+11431.00012207031
+ 20
+11330.00012207031
+ 10
+11450.00012207031
+ 20
+11322.00012207031
+ 10
+11465.00012207031
+ 20
+11310.00012207031
+ 10
+11470.00012207031
+ 20
+11307.00012207031
+ 10
+11490.00012207031
+ 20
+11292.00012207031
+ 10
+11493.00012207031
+ 20
+11290.00012207031
+ 10
+11510.00012207031
+ 20
+11282.00012207031
+ 10
+11550.00012207031
+ 20
+11252.00012207031
+ 10
+11553.00012207031
+ 20
+11250.00012207031
+ 10
+11553.54309082031
+ 20
+11249.74487304688
+ 10
+11570.00012207031
+ 20
+11242.00012207031
+ 10
+11590.00012207031
+ 20
+11227.00012207031
+ 10
+11610.00012207031
+ 20
+11214.00012207031
+ 10
+11616.00012207031
+ 20
+11210.00012207031
+ 10
+11630.00012207031
+ 20
+11204.00012207031
+ 10
+11647.00012207031
+ 20
+11190.00012207031
+ 10
+11650.00012207031
+ 20
+11188.00012207031
+ 10
+11670.00012207031
+ 20
+11176.00012207031
+ 10
+11678.00012207031
+ 20
+11170.00012207031
+ 10
+11690.00012207031
+ 20
+11165.00012207031
+ 10
+11708.00012207031
+ 20
+11150.00012207031
+ 10
+11710.00012207031
+ 20
+11149.00012207031
+ 10
+11730.00012207031
+ 20
+11141.00012207031
+ 10
+11745.00012207031
+ 20
+11130.00012207031
+ 10
+11750.00012207031
+ 20
+11128.00012207031
+ 10
+11770.00012207031
+ 20
+11116.00012207031
+ 10
+11779.00012207031
+ 20
+11110.00012207031
+ 10
+11790.00012207031
+ 20
+11106.00012207031
+ 10
+11810.00012207031
+ 20
+11090.00012207031
+ 10
+11830.00012207031
+ 20
+11084.00012207031
+ 10
+11848.00012207031
+ 20
+11070.00012207031
+ 10
+11850.00012207031
+ 20
+11069.00012207031
+ 10
+11870.00012207031
+ 20
+11061.00012207031
+ 10
+11885.00012207031
+ 20
+11050.00012207031
+ 10
+11890.00012207031
+ 20
+11048.00012207031
+ 10
+11910.00012207031
+ 20
+11037.00012207031
+ 10
+11920.00012207031
+ 20
+11030.00012207031
+ 10
+11930.00012207031
+ 20
+11026.00012207031
+ 10
+11950.00012207031
+ 20
+11011.00012207031
+ 10
+11952.00012207031
+ 20
+11010.00012207031
+ 10
+11970.00012207031
+ 20
+11003.00012207031
+ 10
+11988.00012207031
+ 20
+10990.00012207031
+ 10
+11990.00012207031
+ 20
+10989.00012207031
+ 10
+12010.00012207031
+ 20
+10981.00012207031
+ 10
+12025.00012207031
+ 20
+10970.00012207031
+ 10
+12030.00012207031
+ 20
+10967.00012207031
+ 10
+12050.00012207031
+ 20
+10957.00012207031
+ 10
+12061.00012207031
+ 20
+10950.00012207031
+ 10
+12070.00012207031
+ 20
+10946.00012207031
+ 10
+12090.00012207031
+ 20
+10932.00012207031
+ 10
+12094.00012207031
+ 20
+10930.00012207031
+ 10
+12110.00012207031
+ 20
+10924.00012207031
+ 10
+12129.00012207031
+ 20
+10910.00012207031
+ 10
+12130.00012207031
+ 20
+10910.00012207031
+ 10
+12150.00012207031
+ 20
+10902.00012207031
+ 10
+12167.00012207031
+ 20
+10890.00012207031
+ 10
+12170.00012207031
+ 20
+10889.00012207031
+ 10
+12190.00012207031
+ 20
+10881.00012207031
+ 10
+12204.00012207031
+ 20
+10870.00012207031
+ 10
+12210.00012207031
+ 20
+10868.00012207031
+ 10
+12230.00012207031
+ 20
+10857.00012207031
+ 10
+12240.00012207031
+ 20
+10850.00012207031
+ 10
+12250.00012207031
+ 20
+10847.00012207031
+ 10
+12270.00012207031
+ 20
+10830.00012207031
+ 10
+12290.00012207031
+ 20
+10826.00012207031
+ 10
+12308.00012207031
+ 20
+10810.00012207031
+ 10
+12310.00012207031
+ 20
+10809.00012207031
+ 10
+12330.00012207031
+ 20
+10805.00012207031
+ 10
+12350.00012207031
+ 20
+10790.00012207031
+ 10
+12370.00012207031
+ 20
+10790.00012207031
+ 10
+12390.00012207031
+ 20
+10789.00012207031
+ 10
+12410.00012207031
+ 20
+10787.00012207031
+ 10
+12450.00012207031
+ 20
+10781.00012207031
+ 10
+12470.00012207031
+ 20
+10780.00012207031
+ 10
+12490.00012207031
+ 20
+10778.00012207031
+ 10
+12530.00012207031
+ 20
+10770.00012207031
+ 10
+12550.00012207031
+ 20
+10770.00012207031
+ 10
+12570.00012207031
+ 20
+10769.00012207031
+ 10
+12610.00012207031
+ 20
+10769.00012207031
+ 10
+12630.00012207031
+ 20
+10768.00012207031
+ 10
+12670.00012207031
+ 20
+10770.00012207031
+ 10
+12810.00012207031
+ 20
+10770.00012207031
+ 10
+12830.00012207031
+ 20
+10790.00012207031
+ 10
+12850.00012207031
+ 20
+10790.00012207031
+ 10
+12870.00012207031
+ 20
+10799.00012207031
+ 10
+12890.00012207031
+ 20
+10807.00012207031
+ 10
+12903.00012207031
+ 20
+10810.00012207031
+ 10
+12930.00012207031
+ 20
+10825.00012207031
+  0
+LWPOLYLINE
+  5
+23
+102
+{ACAD_XDICTIONARY
+360
+24
+102
+}
+330
+2
+100
+AcDbEntity
+  8
+GEO6
+100
+AcDbPolyline
+ 90
+      192
+ 70
+     1
+ 43
+0.0
+ 10
+12989.99987792969
+ 20
+10025.00030517578
+ 10
+12990.00012207031
+ 20
+9782.000122070314
+ 10
+12990.00012207031
+ 20
+9482.000122070314
+ 10
+12990.00012207031
+ 20
+9317.000122070313
+ 10
+12870.00012207031
+ 20
+9023.000122070312
+ 10
+12579.00012207031
+ 20
+9010.000122070312
+ 10
+12173.00012207031
+ 20
+9010.000122070312
+ 10
+11766.99987792969
+ 20
+9010.000122070312
+ 10
+11662.28070068359
+ 20
+9215.576721191407
+ 10
+11415.41192626953
+ 20
+9354.26708984375
+ 10
+11176.86450195312
+ 20
+9404.195678710937
+ 10
+10866.19812011719
+ 20
+9479.088500976564
+ 10
+10758.01971435547
+ 20
+9559.528686523437
+ 10
+10587.89288330078
+ 20
+9713.937316894533
+ 10
+10576.79748535156
+ 20
+9802.699279785157
+ 10
+10484.33728027344
+ 20
+9917.349914550779
+ 10
+10351.19470214844
+ 20
+9983.921325683594
+ 10
+10280.92492675781
+ 20
+10013.50848388672
+ 10
+10188.46472167969
+ 20
+10050.49267578125
+ 10
+10088.60748291016
+ 20
+10068.98468017578
+ 10
+9977.6552734375
+ 20
+10087.47668457031
+ 10
+9892.591918945313
+ 20
+10109.66711425781
+ 10
+9837.11590576172
+ 20
+10128.15911865234
+ 10
+9796.43328857422
+ 20
+10157.74652099609
+ 10
+9755.750671386721
+ 20
+10198.42889404297
+ 10
+9703.973083496094
+ 20
+10246.50830078125
+ 10
+9674.385681152344
+ 20
+10287.19067382812
+ 10
+9633.703308105467
+ 20
+10331.57171630859
+ 10
+9423.127319335938
+ 20
+10454.95349121094
+ 10
+9326.694702148436
+ 20
+10551.38610839844
+ 10
+9256.562072753906
+ 20
+10665.35192871094
+ 10
+9274.095275878906
+ 20
+10831.91729736328
+ 10
+9291.072082519532
+ 20
+10942.26647949219
+ 10
+9431.420471191406
+ 20
+10959.12951660156
+ 10
+9475.801330566406
+ 20
+11092.27227783203
+ 10
+9623.737670898437
+ 20
+11141.58447265625
+ 10
+9766.742919921878
+ 20
+11121.85949707031
+ 10
+9860.435913085938
+ 20
+11161.30932617188
+ 10
+9830.848693847656
+ 20
+11309.24548339844
+ 10
+9811.123901367189
+ 20
+11452.25067138672
+ 10
+9875.2294921875
+ 20
+11541.01251220703
+ 10
+10052.75329589844
+ 20
+11555.80627441406
+ 10
+10111.79907226562
+ 20
+11553.34613037109
+ 10
+10121.00012207031
+ 20
+11550.00012207031
+ 10
+10130.00012207031
+ 20
+11547.00012207031
+ 10
+10150.00012207031
+ 20
+11539.00012207031
+ 10
+10170.00012207031
+ 20
+11532.00012207031
+ 10
+10176.00012207031
+ 20
+11530.00012207031
+ 10
+10190.00012207031
+ 20
+11525.00012207031
+ 10
+10210.00012207031
+ 20
+11518.00012207031
+ 10
+10230.00012207031
+ 20
+11512.00012207031
+ 10
+10235.00012207031
+ 20
+11510.00012207031
+ 10
+10250.00012207031
+ 20
+11505.00012207031
+ 10
+10290.00012207031
+ 20
+11493.00012207031
+ 10
+10298.00012207031
+ 20
+11490.00012207031
+ 10
+10310.00012207031
+ 20
+11486.00012207031
+ 10
+10330.00012207031
+ 20
+11479.00012207031
+ 10
+10350.00012207031
+ 20
+11474.00012207031
+ 10
+10370.00012207031
+ 20
+11470.00012207031
+ 10
+10390.00012207031
+ 20
+11468.00012207031
+ 10
+10430.00012207031
+ 20
+11462.00012207031
+ 10
+10470.00012207031
+ 20
+11458.00012207031
+ 10
+10490.00012207031
+ 20
+11456.00012207031
+ 10
+10510.00012207031
+ 20
+11453.00012207031
+ 10
+10570.00012207031
+ 20
+11450.00012207031
+ 10
+10574.00012207031
+ 20
+11450.00012207031
+ 10
+10590.00012207031
+ 20
+11448.00012207031
+ 10
+10630.00012207031
+ 20
+11444.00012207031
+ 10
+10690.00012207031
+ 20
+11435.00012207031
+ 10
+10710.00012207031
+ 20
+11431.00012207031
+ 10
+10713.00012207031
+ 20
+11430.00012207031
+ 10
+10730.00012207031
+ 20
+11427.00012207031
+ 10
+10750.00012207031
+ 20
+11424.00012207031
+ 10
+10770.00012207031
+ 20
+11419.00012207031
+ 10
+10810.00012207031
+ 20
+11411.00012207031
+ 10
+10812.00012207031
+ 20
+11410.00012207031
+ 10
+10830.00012207031
+ 20
+11403.00012207031
+ 10
+10850.00012207031
+ 20
+11397.00012207031
+ 10
+10867.00012207031
+ 20
+11390.00012207031
+ 10
+10870.00012207031
+ 20
+11389.00012207031
+ 10
+10890.00012207031
+ 20
+11382.00012207031
+ 10
+10910.00012207031
+ 20
+11374.00012207031
+ 10
+10924.00012207031
+ 20
+11370.00012207031
+ 10
+10930.00012207031
+ 20
+11368.00012207031
+ 10
+10990.00012207031
+ 20
+11344.00012207031
+ 10
+11010.00012207031
+ 20
+11335.00012207031
+ 10
+11021.00012207031
+ 20
+11330.00012207031
+ 10
+11030.00012207031
+ 20
+11326.00012207031
+ 10
+11050.00012207031
+ 20
+11318.00012207031
+ 10
+11069.00012207031
+ 20
+11310.00012207031
+ 10
+11070.00012207031
+ 20
+11309.00012207031
+ 10
+11110.00012207031
+ 20
+11293.00012207031
+ 10
+11117.00012207031
+ 20
+11290.00012207031
+ 10
+11130.00012207031
+ 20
+11285.00012207031
+ 10
+11150.00012207031
+ 20
+11276.00012207031
+ 10
+11170.00012207031
+ 20
+11268.00012207031
+ 10
+11190.00012207031
+ 20
+11259.00012207031
+ 10
+11210.00012207031
+ 20
+11251.00012207031
+ 10
+11212.00012207031
+ 20
+11250.00012207031
+ 10
+11230.00012207031
+ 20
+11242.00012207031
+ 10
+11250.00012207031
+ 20
+11230.00012207031
+ 10
+11251.00012207031
+ 20
+11230.00012207031
+ 10
+11270.00012207031
+ 20
+11217.00012207031
+ 10
+11281.00012207031
+ 20
+11210.00012207031
+ 10
+11290.00012207031
+ 20
+11204.00012207031
+ 10
+11310.00012207031
+ 20
+11190.00012207031
+ 10
+11330.00012207031
+ 20
+11177.00012207031
+ 10
+11341.00012207031
+ 20
+11170.00012207031
+ 10
+11350.00012207031
+ 20
+11164.00012207031
+ 10
+11370.00012207031
+ 20
+11150.00012207031
+ 10
+11390.00012207031
+ 20
+11137.00012207031
+ 10
+11400.00012207031
+ 20
+11130.00012207031
+ 10
+11410.00012207031
+ 20
+11124.00012207031
+ 10
+11430.00012207031
+ 20
+11110.00012207031
+ 10
+11450.00012207031
+ 20
+11097.00012207031
+ 10
+11470.00012207031
+ 20
+11083.00012207031
+ 10
+11488.00012207031
+ 20
+11070.00012207031
+ 10
+11490.00012207031
+ 20
+11069.00012207031
+ 10
+11510.00012207031
+ 20
+11053.00012207031
+ 10
+11514.00012207031
+ 20
+11050.00012207031
+ 10
+11530.00012207031
+ 20
+11037.00012207031
+ 10
+11539.00012207031
+ 20
+11030.00012207031
+ 10
+11550.00012207031
+ 20
+11022.00012207031
+ 10
+11570.00012207031
+ 20
+11006.00012207031
+ 10
+11587.00012207031
+ 20
+10990.00012207031
+ 10
+11590.00012207031
+ 20
+10987.00012207031
+ 10
+11609.00012207031
+ 20
+10970.00012207031
+ 10
+11610.00012207031
+ 20
+10969.00012207031
+ 10
+11630.00012207031
+ 20
+10951.00012207031
+ 10
+11631.00012207031
+ 20
+10950.00012207031
+ 10
+11650.00012207031
+ 20
+10932.00012207031
+ 10
+11812.00012207031
+ 20
+10770.00012207031
+ 10
+11830.00012207031
+ 20
+10753.00012207031
+ 10
+11834.00012207031
+ 20
+10750.00012207031
+ 10
+11850.00012207031
+ 20
+10736.00012207031
+ 10
+11858.00012207031
+ 20
+10730.00012207031
+ 10
+11882.00012207031
+ 20
+10710.00012207031
+ 10
+11890.00012207031
+ 20
+10703.00012207031
+ 10
+11906.00012207031
+ 20
+10690.00012207031
+ 10
+11910.00012207031
+ 20
+10686.00012207031
+ 10
+11930.00012207031
+ 20
+10670.00012207031
+ 10
+11950.00012207031
+ 20
+10655.00012207031
+ 10
+11956.00012207031
+ 20
+10650.00012207031
+ 10
+11970.00012207031
+ 20
+10639.00012207031
+ 10
+11990.00012207031
+ 20
+10624.00012207031
+ 10
+12008.00012207031
+ 20
+10610.00012207031
+ 10
+12010.00012207031
+ 20
+10609.00012207031
+ 10
+12030.00012207031
+ 20
+10593.00012207031
+ 10
+12050.00012207031
+ 20
+10578.00012207031
+ 10
+12070.00012207031
+ 20
+10562.00012207031
+ 10
+12087.00012207031
+ 20
+10550.00012207031
+ 10
+12090.00012207031
+ 20
+10547.00012207031
+ 10
+12110.00012207031
+ 20
+10532.00012207031
+ 10
+12112.00012207031
+ 20
+10530.00012207031
+ 10
+12130.00012207031
+ 20
+10516.00012207031
+ 10
+12150.00012207031
+ 20
+10501.00012207031
+ 10
+12165.00012207031
+ 20
+10490.00012207031
+ 10
+12190.00012207031
+ 20
+10470.00012207031
+ 10
+12210.00012207031
+ 20
+10455.00012207031
+ 10
+12216.00012207031
+ 20
+10450.00012207031
+ 10
+12230.00012207031
+ 20
+10440.00012207031
+ 10
+12243.00012207031
+ 20
+10430.00012207031
+ 10
+12250.00012207031
+ 20
+10424.00012207031
+ 10
+12269.00012207031
+ 20
+10410.00012207031
+ 10
+12270.00012207031
+ 20
+10409.00012207031
+ 10
+12290.00012207031
+ 20
+10394.00012207031
+ 10
+12310.00012207031
+ 20
+10378.00012207031
+ 10
+12322.00012207031
+ 20
+10370.00012207031
+ 10
+12330.00012207031
+ 20
+10364.00012207031
+ 10
+12350.00012207031
+ 20
+10350.00012207031
+ 10
+12370.00012207031
+ 20
+10332.00012207031
+ 10
+12373.00012207031
+ 20
+10330.00012207031
+ 10
+12390.00012207031
+ 20
+10315.00012207031
+ 10
+12396.00012207031
+ 20
+10310.00012207031
+ 10
+12410.00012207031
+ 20
+10300.00012207031
+ 10
+12423.00012207031
+ 20
+10290.00012207031
+ 10
+12430.00012207031
+ 20
+10285.00012207031
+ 10
+12449.00012207031
+ 20
+10270.00012207031
+ 10
+12450.00012207031
+ 20
+10269.00012207031
+ 10
+12470.00012207031
+ 20
+10254.00012207031
+ 10
+12475.00012207031
+ 20
+10250.00012207031
+ 10
+12490.00012207031
+ 20
+10239.00012207031
+ 10
+12510.00012207031
+ 20
+10224.00012207031
+ 10
+12528.00012207031
+ 20
+10210.00012207031
+ 10
+12530.00012207031
+ 20
+10209.00012207031
+ 10
+12550.00012207031
+ 20
+10193.00012207031
+ 10
+12570.00012207031
+ 20
+10178.00012207031
+ 10
+12581.00012207031
+ 20
+10170.00012207031
+ 10
+12590.00012207031
+ 20
+10163.00012207031
+ 10
+12607.00012207031
+ 20
+10150.00012207031
+ 10
+12610.00012207031
+ 20
+10147.00012207031
+ 10
+12630.00012207031
+ 20
+10133.00012207031
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+9
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_COLOR
+350
+4A
+  3
+ACAD_GROUP
+350
+45
+  3
+ACAD_LAYOUT
+350
+29
+  3
+ACAD_MATERIAL
+350
+C
+  3
+ACAD_MLEADERSTYLE
+350
+4D
+  3
+ACAD_MLINESTYLE
+350
+46
+  3
+ACAD_PLOTSETTINGS
+350
+47
+  3
+ACAD_PLOTSTYLENAME
+350
+8
+  3
+ACAD_SCALELIST
+350
+4B
+  3
+ACAD_TABLESTYLE
+350
+4C
+  3
+ACAD_VISUALSTYLE
+350
+3E
+  3
+ACDB_RECOMPOSE_DATA
+350
+6F
+  3
+AcDbVariableDictionary
+350
+65
+1001
+ADE
+1000
+ADE02C004
+1000
+[Query]
+1000
+CaseSensitiveMatch=0
+1000
+SaveCurrQueryInSession=1
+1000
+MkSelSetWithQryObj=0
+1000
+ShowBlockAsInsPt=0
+1000
+CreateAssociativeHatchObjects=0
+1000
+ReferenceBoundaryForAreaLocation=1
+1000
+ShowImageAsBoundary=1
+1000
+DefaultJoinOperator=2
+1000
+ColorForAdd=red
+1000
+ColorForRemove=red
+1000
+BlockLocnForQuery=1
+1000
+TextLocnForQuery=1
+1000
+IncludeAllObjectsInGroups=0
+1000
+AlwaysUseLibraryDefinitions=0
+1000
+PreviewDefinitionsFrom=2
+1000
+[Save Back]
+1000
+RedefineBlockDefinitions=1
+1000
+RedefineLayerDefinitions=1
+1000
+RedefineTextStyleDefinitions=1
+1000
+RemoveUnusedGroups=1
+1000
+EraseSavedBackObjects=1
+1000
+RemoveLockAfterSave=1
+1000
+CreateHistoryFileOfChanges=0
+1000
+CreateBackupFileOfSourceDwg=1
+1000
+DontAddObjectsToSaveSet=0
+1000
+MarkObjectsForEditingWithoutPrompting=0
+1000
+FdoDontAddObjsToSvSet=0
+1000
+FdoEditWithoutPrompt=1
+1000
+FdoRemUnusedGrps=1
+1000
+FdoEraseSvdBkObjs=1
+1000
+FdoRemoveLockOnSave=1
+1000
+FdoTesselationMaxPointsDistance=0
+1000
+FdoTesselationMaxCurvesDistance=0
+1000
+[Coordinate Transformation]
+1000
+RestoreLastActiveDwgsOnStartup=1
+1000
+ActivateDwgsOnAttach=1
+1000
+AdjustSizesAndScalesForChangesInUnits=1
+1000
+AdjustRotationsForMapDistortions=1
+1000
+AdjustSizesAndScalesForMapDistortions=1
+1000
+AdjustElevations=1
+1000
+AdjustZeroRotationObjects=1
+1000
+ReconnectDbOnWSOpen=1
+1000
+NoOfSQLConditionsInHistory=10
+  0
+DICTIONARY
+  5
+3
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_SORTENTS
+360
+64
+  0
+DICTIONARY
+  5
+F
+330
+E
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ESRI_Attributes
+360
+10
+  0
+DICTIONARY
+  5
+14
+330
+13
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ESRI_Attributes
+360
+15
+  0
+DICTIONARY
+  5
+18
+330
+17
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ESRI_Attributes
+360
+19
+  0
+DICTIONARY
+  5
+1C
+330
+1B
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ESRI_Attributes
+360
+1D
+  0
+DICTIONARY
+  5
+20
+330
+1F
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ESRI_Attributes
+360
+21
+  0
+DICTIONARY
+  5
+24
+330
+23
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ESRI_Attributes
+360
+25
+  0
+DICTIONARY
+  5
+4A
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+45
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+29
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+2D
+  3
+Layout2
+350
+31
+  3
+Model
+350
+28
+  0
+DICTIONARY
+  5
+C
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  3
+ByBlock
+350
+49
+  3
+ByLayer
+350
+48
+  3
+Global
+350
+B
+  0
+DICTIONARY
+  5
+4D
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+46
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+4E
+  0
+DICTIONARY
+  5
+47
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+8
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+7
+100
+AcDbDictionaryWithDefault
+340
+7
+  0
+DICTIONARY
+  5
+4B
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  3
+*A1
+350
+52
+  3
+A0
+350
+53
+  3
+A1
+350
+54
+  3
+A2
+350
+55
+  3
+A3
+350
+56
+  3
+A4
+350
+57
+  3
+A5
+350
+58
+  3
+A6
+350
+59
+  3
+A7
+350
+5A
+  3
+A8
+350
+5B
+  3
+A9
+350
+5C
+  3
+B0
+350
+5D
+  3
+B1
+350
+5E
+  3
+B2
+350
+5F
+  3
+B3
+350
+60
+  3
+B4
+350
+61
+  3
+B5
+350
+62
+  3
+B6
+350
+63
+  0
+DICTIONARY
+  5
+4C
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+4F
+  0
+DICTIONARY
+  5
+3E
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  3
+2dWireframe
+350
+3D
+  3
+Realistic
+350
+50
+  3
+Wireframe
+350
+51
+  0
+XRECORD
+  5
+6F
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbXrecord
+280
+     1
+ 90
+        1
+330
+4F
+  0
+DICTIONARY
+  5
+65
+102
+{ACAD_REACTORS
+330
+9
+102
+}
+330
+9
+100
+AcDbDictionary
+281
+     1
+  3
+CANNOSCALE
+350
+6A
+  3
+CMLEADERSTYLE
+350
+67
+  3
+CTABLESTYLE
+350
+66
+  3
+CVIEWDETAILSTYLE
+350
+68
+  3
+CVIEWSECTIONSTYLE
+350
+69
+  3
+LAYEREVAL
+350
+6B
+  3
+LAYERNOTIFY
+350
+6C
+  0
+SORTENTSTABLE
+  5
+64
+102
+{ACAD_REACTORS
+330
+3
+102
+}
+330
+3
+100
+AcDbSortentsTable
+330
+2
+  0
+DICTIONARY
+  5
+10
+102
+{ACAD_REACTORS
+330
+F
+102
+}
+330
+F
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+15
+102
+{ACAD_REACTORS
+330
+14
+102
+}
+330
+14
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+18
+102
+}
+330
+18
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1D
+102
+{ACAD_REACTORS
+330
+1C
+102
+}
+330
+1C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+21
+102
+{ACAD_REACTORS
+330
+20
+102
+}
+330
+20
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+25
+102
+{ACAD_REACTORS
+330
+24
+102
+}
+330
+24
+100
+AcDbDictionary
+281
+     1
+  0
+LAYOUT
+  5
+2D
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.000000000000000E+20
+ 24
+1.000000000000000E+20
+ 34
+1.000000000000000E+20
+ 15
+-1.000000000000000E+20
+ 25
+-1.000000000000000E+20
+ 35
+-1.000000000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+2A
+  0
+LAYOUT
+  5
+31
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+0.0
+ 21
+0.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+2E
+  0
+LAYOUT
+  5
+28
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+  1712
+ 72
+     0
+ 73
+     0
+ 74
+     0
+  7
+
+ 75
+     0
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.000000000000000E+20
+ 24
+1.000000000000000E+20
+ 34
+1.000000000000000E+20
+ 15
+-1.000000000000000E+20
+ 25
+-1.000000000000000E+20
+ 35
+-1.000000000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+2
+331
+3C
+  0
+MATERIAL
+  5
+49
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbMaterial
+  1
+ByBlock
+  0
+MATERIAL
+  5
+48
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbMaterial
+  1
+ByLayer
+  0
+MATERIAL
+  5
+B
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbMaterial
+  1
+Global
+  0
+MLINESTYLE
+  5
+4E
+102
+{ACAD_REACTORS
+330
+46
+102
+}
+330
+46
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+7
+102
+{ACAD_REACTORS
+330
+8
+102
+}
+330
+8
+  0
+SCALE
+  5
+52
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1" = 1'
+140
+1.0
+141
+1.0
+290
+     1
+  0
+SCALE
+  5
+53
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1:1
+140
+1.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+54
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1/128" = 1'-0"
+140
+0.0078125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+55
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1/64" = 1'-0"
+140
+0.015625
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+56
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1/32" = 1'-0"
+140
+0.03125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+57
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1/16" = 1'-0"
+140
+0.0625
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+58
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+3/32" = 1'-0"
+140
+0.09375
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+59
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1/8" = 1'-0"
+140
+0.125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5A
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+3/16" = 1'-0"
+140
+0.1875
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5B
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1/4" = 1'-0"
+140
+0.25
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5C
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+3/8" = 1'-0"
+140
+0.375
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5D
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1/2" = 1'-0"
+140
+0.5
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5E
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+3/4" = 1'-0"
+140
+0.75
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5F
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1" = 1'-0"
+140
+1.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+60
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1-1/2" = 1'-0"
+140
+1.5
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+61
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+3" = 1'-0"
+140
+3.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+62
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+6" = 1'-0"
+140
+6.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+63
+102
+{ACAD_REACTORS
+330
+4B
+102
+}
+330
+4B
+100
+AcDbScale
+ 70
+     0
+300
+1'-0" = 1'-0"
+140
+12.0
+141
+12.0
+290
+     0
+  0
+TABLESTYLE
+  5
+4F
+102
+{ACAD_XDICTIONARY
+360
+6D
+102
+}
+102
+{ACAD_REACTORS
+330
+4C
+102
+}
+330
+4C
+100
+AcDbTableStyle
+  3
+Standard
+ 70
+     0
+ 71
+     0
+ 40
+0.06
+ 41
+0.06
+280
+     0
+281
+     0
+  7
+Standard
+140
+0.18
+170
+     2
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  7
+Standard
+140
+0.25
+170
+     5
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  7
+Standard
+140
+0.18
+170
+     5
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  0
+VISUALSTYLE
+  5
+3D
+102
+{ACAD_XDICTIONARY
+360
+70
+102
+}
+102
+{ACAD_REACTORS
+330
+3E
+102
+}
+330
+3E
+100
+AcDbVisualStyle
+  2
+
+ 70
+     4
+ 71
+     0
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+50
+102
+{ACAD_XDICTIONARY
+360
+72
+102
+}
+102
+{ACAD_REACTORS
+330
+3E
+102
+}
+330
+3E
+100
+AcDbVisualStyle
+  2
+
+ 70
+     8
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        0
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     8
+424
+  7895160
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+51
+102
+{ACAD_XDICTIONARY
+360
+74
+102
+}
+102
+{ACAD_REACTORS
+330
+3E
+102
+}
+330
+3E
+100
+AcDbVisualStyle
+  2
+Wireframe
+ 70
+     5
+ 71
+     0
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     3
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+DICTIONARYVAR
+  5
+6A
+102
+{ACAD_REACTORS
+330
+65
+102
+}
+330
+65
+100
+DictionaryVariables
+280
+     0
+  1
+1:1
+  0
+DICTIONARYVAR
+  5
+67
+102
+{ACAD_REACTORS
+330
+65
+102
+}
+330
+65
+100
+DictionaryVariables
+280
+     0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+66
+102
+{ACAD_REACTORS
+330
+65
+102
+}
+330
+65
+100
+DictionaryVariables
+280
+     0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+68
+102
+{ACAD_REACTORS
+330
+65
+102
+}
+330
+65
+100
+DictionaryVariables
+280
+     0
+  1
+
+  0
+DICTIONARYVAR
+  5
+69
+102
+{ACAD_REACTORS
+330
+65
+102
+}
+330
+65
+100
+DictionaryVariables
+280
+     0
+  1
+
+  0
+DICTIONARYVAR
+  5
+6B
+102
+{ACAD_REACTORS
+330
+65
+102
+}
+330
+65
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+DICTIONARYVAR
+  5
+6C
+102
+{ACAD_REACTORS
+330
+65
+102
+}
+330
+65
+100
+DictionaryVariables
+280
+     0
+  1
+15
+  0
+DICTIONARY
+  5
+6D
+330
+4F
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
+360
+6E
+  0
+DICTIONARY
+  5
+70
+330
+3D
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+71
+  0
+DICTIONARY
+  5
+72
+330
+50
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+73
+  0
+DICTIONARY
+  5
+74
+330
+51
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+75
+  0
+CELLSTYLEMAP
+  5
+6E
+102
+{ACAD_REACTORS
+330
+6D
+102
+}
+330
+6D
+100
+AcDbCellStyleMap
+ 90
+        3
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+    32768
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        5
+ 62
+     0
+340
+34
+144
+0.25
+309
+CONTENTFORMAT_END
+171
+     0
+ 94
+        0
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        1
+ 91
+        1
+300
+_TITLE
+309
+CELLSTYLE_END
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+        0
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        5
+ 62
+     0
+340
+34
+144
+0.18
+309
+CONTENTFORMAT_END
+171
+     0
+ 94
+        0
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        2
+ 91
+        1
+300
+_HEADER
+309
+CELLSTYLE_END
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+        0
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        2
+ 62
+     0
+340
+34
+144
+0.18
+309
+CONTENTFORMAT_END
+171
+     0
+ 94
+        0
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        3
+ 91
+        2
+300
+_DATA
+309
+CELLSTYLE_END
+  0
+XRECORD
+  5
+71
+102
+{ACAD_REACTORS
+330
+70
+102
+}
+330
+70
+100
+AcDbXrecord
+280
+     1
+102
+RTVSPost2010Prop28
+280
+     1
+102
+RTVSPost2010PropOp28
+ 70
+     1
+102
+RTVSPost2010Prop29
+280
+     1
+102
+RTVSPost2010PropOp29
+ 70
+     1
+102
+RTVSPost2010Prop30
+280
+     0
+102
+RTVSPost2010PropOp30
+ 70
+     1
+102
+RTVSPost2010Prop31
+280
+     0
+102
+RTVSPost2010PropOp31
+ 70
+     1
+102
+RTVSPost2010Prop32
+280
+     0
+102
+RTVSPost2010PropOp32
+ 70
+     1
+102
+RTVSPost2010Prop33
+280
+     0
+102
+RTVSPost2010PropOp33
+ 70
+     1
+102
+RTVSPost2010Prop34
+280
+     0
+102
+RTVSPost2010PropOp34
+ 70
+     1
+102
+RTVSPost2010Prop35
+280
+     0
+102
+RTVSPost2010PropOp35
+ 70
+     1
+102
+RTVSPost2010Prop36
+280
+     0
+102
+RTVSPost2010PropOp36
+ 70
+     1
+102
+RTVSPost2010Prop37
+ 90
+       50
+102
+RTVSPost2010PropOp37
+ 70
+     1
+102
+RTVSPost2010Prop38
+140
+0.0
+102
+RTVSPost2010PropOp38
+ 70
+     1
+102
+RTVSPost2010Prop39
+140
+1.0
+102
+RTVSPost2010PropOp39
+ 70
+     1
+102
+RTVSPost2010Prop40
+ 90
+        0
+102
+RTVSPost2010PropOp40
+ 70
+     1
+102
+RTVSPost2010Prop41ColorIndex
+ 90
+       18
+102
+RTVSPost2010Prop41ColorRGB
+ 90
+        0
+102
+RTVSPost2010PropOp41
+ 70
+     1
+102
+RTVSPost2010Prop42
+ 90
+       50
+102
+RTVSPost2010PropOp42
+ 70
+     1
+102
+RTVSPost2010Prop43
+ 90
+        3
+102
+RTVSPost2010PropOp43
+ 70
+     1
+102
+RTVSPost2010Prop44ColorIndex
+ 90
+        5
+102
+RTVSPost2010Prop44ColorRGB
+ 90
+      255
+102
+RTVSPost2010PropOp44
+ 70
+     1
+102
+RTVSPost2010Prop45
+280
+     0
+102
+RTVSPost2010PropOp45
+ 70
+     1
+102
+RTVSPost2010Prop46
+ 90
+       50
+102
+RTVSPost2010PropOp46
+ 70
+     1
+102
+RTVSPost2010Prop47
+ 90
+       50
+102
+RTVSPost2010PropOp47
+ 70
+     1
+102
+RTVSPost2010Prop48
+ 90
+       50
+102
+RTVSPost2010PropOp48
+ 70
+     1
+102
+RTVSPost2010Prop49
+280
+     0
+102
+RTVSPost2010PropOp49
+ 70
+     1
+102
+RTVSPost2010Prop50
+ 90
+       50
+102
+RTVSPost2010PropOp50
+ 70
+     1
+102
+RTVSPost2010Prop51ColorIndex
+ 90
+      256
+102
+RTVSPost2010Prop51ColorRGB
+ 90
+-16777216
+102
+RTVSPost2010PropOp51
+ 70
+     0
+102
+RTVSPost2010Prop52
+140
+1.0
+102
+RTVSPost2010PropOp52
+ 70
+     0
+102
+RTVSPost2010Prop53
+ 90
+        2
+102
+RTVSPost2010PropOp53
+ 70
+     1
+102
+RTVSPost2010Prop54
+  1
+strokes_ogs.tif
+102
+RTVSPost2010PropOp54
+ 70
+     1
+102
+RTVSPost2010Prop55
+280
+     0
+102
+RTVSPost2010PropOp55
+ 70
+     1
+102
+RTVSPost2010Prop56
+140
+1.0
+102
+RTVSPost2010PropOp56
+ 70
+     1
+102
+RTVSPost2010Prop57
+140
+1.0
+102
+RTVSPost2010PropOp57
+ 70
+     1
+102
+RTVSPropertyOp0
+ 70
+     1
+102
+RTVSPropertyOp1
+ 70
+     1
+102
+RTVSPropertyOp2
+ 70
+     1
+102
+RTVSPropertyOp3
+ 70
+     1
+102
+RTVSPropertyOp4
+ 70
+     1
+102
+RTVSPropertyOp5
+ 70
+     1
+102
+RTVSPropertyOp6
+ 70
+     1
+102
+RTVSPropertyOp7
+ 70
+     1
+102
+RTVSPropertyOp8
+ 70
+     1
+102
+RTVSPropertyOp9
+ 70
+     1
+102
+RTVSPropertyOp10
+ 70
+     1
+102
+RTVSPropertyOp11
+ 70
+     1
+102
+RTVSPropertyOp12
+ 70
+     1
+102
+RTVSPropertyOp13
+ 70
+     1
+102
+RTVSPropertyOp14
+ 70
+     1
+102
+RTVSPropertyOp15
+ 70
+     1
+102
+RTVSPropertyOp16
+ 70
+     1
+102
+RTVSPropertyOp17
+ 70
+     1
+102
+RTVSPropertyOp18
+ 70
+     1
+102
+RTVSPropertyOp19
+ 70
+     1
+102
+RTVSPropertyOp20
+ 70
+     1
+102
+RTVSPropertyOp21
+ 70
+     1
+102
+RTVSPropertyOp22
+ 70
+     1
+102
+RTVSPropertyOp23
+ 70
+     1
+102
+RTVSPropertyOp24
+ 70
+     1
+102
+RTVSPropertyOp25
+ 70
+     1
+102
+RTVSPropertyOp26
+ 70
+     1
+102
+RTVSPropertyOp27
+ 70
+     1
+102
+RTVSPropertyOp28
+ 70
+     1
+102
+RTVSPropertyOp29
+ 70
+     1
+102
+RTVSPropertyOp30
+ 70
+     1
+102
+RTVSPropertyOp31
+ 70
+     1
+102
+RTVSPropertyOp32
+ 70
+     1
+102
+RTVSPropertyOp33
+ 70
+     1
+102
+RTVSPropertyOp34
+ 70
+     1
+102
+RTVSPropertyOp35
+ 70
+     1
+102
+RTVSPropertyOp36
+ 70
+     1
+102
+RTVSPropertyOp37
+ 70
+     1
+102
+RTVSPropertyOp38
+ 70
+     1
+102
+RTVSPropertyOp39
+ 70
+     1
+102
+RTVSPropertyOp40
+ 70
+     1
+102
+RTVSPropertyOp41
+ 70
+     1
+102
+RTVSPropertyOp42
+ 70
+     1
+102
+RTVSPropertyOp43
+ 70
+     1
+102
+RTVSPropertyOp44
+ 70
+     1
+102
+RTVSPropertyOp45
+ 70
+     1
+102
+RTVSPropertyOp46
+ 70
+     1
+102
+RTVSPropertyOp47
+ 70
+     1
+102
+RTVSPropertyOp48
+ 70
+     1
+102
+RTVSPropertyOp49
+ 70
+     1
+102
+RTVSPropertyOp50
+ 70
+     1
+102
+RTVSPropertyOp51
+ 70
+     0
+102
+RTVSPropertyOp52
+ 70
+     0
+102
+RTVSPropertyOp53
+ 70
+     1
+102
+RTVSPropertyOp54
+ 70
+     1
+102
+RTVSPropertyOp55
+ 70
+     1
+102
+RTVSPropertyOp56
+ 70
+     1
+102
+RTVSPropertyOp57
+ 70
+     1
+102
+RTVSPropertyOp58
+ 70
+     1
+102
+RTVSPropertyOp59
+ 70
+     1
+102
+RTVSPropertyOp60
+ 70
+     1
+102
+RTVSPropertyOp61
+ 70
+     1
+102
+RTVSPropertyOp62
+ 70
+     1
+  0
+XRECORD
+  5
+73
+102
+{ACAD_REACTORS
+330
+72
+102
+}
+330
+72
+100
+AcDbXrecord
+280
+     1
+102
+RTVSPost2010Prop28
+280
+     0
+102
+RTVSPost2010PropOp28
+ 70
+     1
+102
+RTVSPost2010Prop29
+280
+     1
+102
+RTVSPost2010PropOp29
+ 70
+     1
+102
+RTVSPost2010Prop30
+280
+     1
+102
+RTVSPost2010PropOp30
+ 70
+     1
+102
+RTVSPost2010Prop31
+280
+     0
+102
+RTVSPost2010PropOp31
+ 70
+     1
+102
+RTVSPost2010Prop32
+280
+     0
+102
+RTVSPost2010PropOp32
+ 70
+     1
+102
+RTVSPost2010Prop33
+280
+     0
+102
+RTVSPost2010PropOp33
+ 70
+     1
+102
+RTVSPost2010Prop34
+280
+     0
+102
+RTVSPost2010PropOp34
+ 70
+     1
+102
+RTVSPost2010Prop35
+280
+     0
+102
+RTVSPost2010PropOp35
+ 70
+     1
+102
+RTVSPost2010Prop36
+280
+     0
+102
+RTVSPost2010PropOp36
+ 70
+     1
+102
+RTVSPost2010Prop37
+ 90
+       50
+102
+RTVSPost2010PropOp37
+ 70
+     1
+102
+RTVSPost2010Prop38
+140
+0.0
+102
+RTVSPost2010PropOp38
+ 70
+     1
+102
+RTVSPost2010Prop39
+140
+1.0
+102
+RTVSPost2010PropOp39
+ 70
+     1
+102
+RTVSPost2010Prop40
+ 90
+        0
+102
+RTVSPost2010PropOp40
+ 70
+     1
+102
+RTVSPost2010Prop41ColorIndex
+ 90
+       18
+102
+RTVSPost2010Prop41ColorRGB
+ 90
+        0
+102
+RTVSPost2010PropOp41
+ 70
+     1
+102
+RTVSPost2010Prop42
+ 90
+       50
+102
+RTVSPost2010PropOp42
+ 70
+     1
+102
+RTVSPost2010Prop43
+ 90
+        3
+102
+RTVSPost2010PropOp43
+ 70
+     1
+102
+RTVSPost2010Prop44ColorIndex
+ 90
+        5
+102
+RTVSPost2010Prop44ColorRGB
+ 90
+      255
+102
+RTVSPost2010PropOp44
+ 70
+     1
+102
+RTVSPost2010Prop45
+280
+     0
+102
+RTVSPost2010PropOp45
+ 70
+     1
+102
+RTVSPost2010Prop46
+ 90
+       50
+102
+RTVSPost2010PropOp46
+ 70
+     1
+102
+RTVSPost2010Prop47
+ 90
+       50
+102
+RTVSPost2010PropOp47
+ 70
+     1
+102
+RTVSPost2010Prop48
+ 90
+       50
+102
+RTVSPost2010PropOp48
+ 70
+     1
+102
+RTVSPost2010Prop49
+280
+     0
+102
+RTVSPost2010PropOp49
+ 70
+     1
+102
+RTVSPost2010Prop50
+ 90
+       50
+102
+RTVSPost2010PropOp50
+ 70
+     1
+102
+RTVSPost2010Prop51ColorIndex
+ 90
+      256
+102
+RTVSPost2010Prop51ColorRGB
+ 90
+-16777216
+102
+RTVSPost2010PropOp51
+ 70
+     0
+102
+RTVSPost2010Prop52
+140
+1.0
+102
+RTVSPost2010PropOp52
+ 70
+     0
+102
+RTVSPost2010Prop53
+ 90
+        2
+102
+RTVSPost2010PropOp53
+ 70
+     1
+102
+RTVSPost2010Prop54
+  1
+strokes_ogs.tif
+102
+RTVSPost2010PropOp54
+ 70
+     1
+102
+RTVSPost2010Prop55
+280
+     0
+102
+RTVSPost2010PropOp55
+ 70
+     1
+102
+RTVSPost2010Prop56
+140
+1.0
+102
+RTVSPost2010PropOp56
+ 70
+     1
+102
+RTVSPost2010Prop57
+140
+1.0
+102
+RTVSPost2010PropOp57
+ 70
+     1
+102
+RTVSPropertyOp0
+ 70
+     1
+102
+RTVSPropertyOp1
+ 70
+     1
+102
+RTVSPropertyOp2
+ 70
+     1
+102
+RTVSPropertyOp3
+ 70
+     1
+102
+RTVSPropertyOp4
+ 70
+     1
+102
+RTVSPropertyOp5
+ 70
+     1
+102
+RTVSPropertyOp6
+ 70
+     1
+102
+RTVSPropertyOp7
+ 70
+     1
+102
+RTVSPropertyOp8
+ 70
+     1
+102
+RTVSPropertyOp9
+ 70
+     1
+102
+RTVSPropertyOp10
+ 70
+     1
+102
+RTVSPropertyOp11
+ 70
+     1
+102
+RTVSPropertyOp12
+ 70
+     1
+102
+RTVSPropertyOp13
+ 70
+     1
+102
+RTVSPropertyOp14
+ 70
+     1
+102
+RTVSPropertyOp15
+ 70
+     1
+102
+RTVSPropertyOp16
+ 70
+     1
+102
+RTVSPropertyOp17
+ 70
+     1
+102
+RTVSPropertyOp18
+ 70
+     1
+102
+RTVSPropertyOp19
+ 70
+     1
+102
+RTVSPropertyOp20
+ 70
+     1
+102
+RTVSPropertyOp21
+ 70
+     1
+102
+RTVSPropertyOp22
+ 70
+     1
+102
+RTVSPropertyOp23
+ 70
+     1
+102
+RTVSPropertyOp24
+ 70
+     1
+102
+RTVSPropertyOp25
+ 70
+     1
+102
+RTVSPropertyOp26
+ 70
+     1
+102
+RTVSPropertyOp27
+ 70
+     1
+102
+RTVSPropertyOp28
+ 70
+     1
+102
+RTVSPropertyOp29
+ 70
+     1
+102
+RTVSPropertyOp30
+ 70
+     1
+102
+RTVSPropertyOp31
+ 70
+     1
+102
+RTVSPropertyOp32
+ 70
+     1
+102
+RTVSPropertyOp33
+ 70
+     1
+102
+RTVSPropertyOp34
+ 70
+     1
+102
+RTVSPropertyOp35
+ 70
+     1
+102
+RTVSPropertyOp36
+ 70
+     1
+102
+RTVSPropertyOp37
+ 70
+     1
+102
+RTVSPropertyOp38
+ 70
+     1
+102
+RTVSPropertyOp39
+ 70
+     1
+102
+RTVSPropertyOp40
+ 70
+     1
+102
+RTVSPropertyOp41
+ 70
+     1
+102
+RTVSPropertyOp42
+ 70
+     1
+102
+RTVSPropertyOp43
+ 70
+     1
+102
+RTVSPropertyOp44
+ 70
+     1
+102
+RTVSPropertyOp45
+ 70
+     1
+102
+RTVSPropertyOp46
+ 70
+     1
+102
+RTVSPropertyOp47
+ 70
+     1
+102
+RTVSPropertyOp48
+ 70
+     1
+102
+RTVSPropertyOp49
+ 70
+     1
+102
+RTVSPropertyOp50
+ 70
+     1
+102
+RTVSPropertyOp51
+ 70
+     0
+102
+RTVSPropertyOp52
+ 70
+     0
+102
+RTVSPropertyOp53
+ 70
+     1
+102
+RTVSPropertyOp54
+ 70
+     1
+102
+RTVSPropertyOp55
+ 70
+     1
+102
+RTVSPropertyOp56
+ 70
+     1
+102
+RTVSPropertyOp57
+ 70
+     1
+102
+RTVSPropertyOp58
+ 70
+     1
+102
+RTVSPropertyOp59
+ 70
+     1
+102
+RTVSPropertyOp60
+ 70
+     1
+102
+RTVSPropertyOp61
+ 70
+     1
+102
+RTVSPropertyOp62
+ 70
+     1
+  0
+XRECORD
+  5
+75
+102
+{ACAD_REACTORS
+330
+74
+102
+}
+330
+74
+100
+AcDbXrecord
+280
+     1
+102
+RTVSPost2010Prop28
+280
+     0
+102
+RTVSPost2010PropOp28
+ 70
+     1
+102
+RTVSPost2010Prop29
+280
+     1
+102
+RTVSPost2010PropOp29
+ 70
+     1
+102
+RTVSPost2010Prop30
+280
+     1
+102
+RTVSPost2010PropOp30
+ 70
+     1
+102
+RTVSPost2010Prop31
+280
+     0
+102
+RTVSPost2010PropOp31
+ 70
+     1
+102
+RTVSPost2010Prop32
+280
+     0
+102
+RTVSPost2010PropOp32
+ 70
+     1
+102
+RTVSPost2010Prop33
+280
+     0
+102
+RTVSPost2010PropOp33
+ 70
+     1
+102
+RTVSPost2010Prop34
+280
+     0
+102
+RTVSPost2010PropOp34
+ 70
+     1
+102
+RTVSPost2010Prop35
+280
+     0
+102
+RTVSPost2010PropOp35
+ 70
+     1
+102
+RTVSPost2010Prop36
+280
+     0
+102
+RTVSPost2010PropOp36
+ 70
+     1
+102
+RTVSPost2010Prop37
+ 90
+       50
+102
+RTVSPost2010PropOp37
+ 70
+     1
+102
+RTVSPost2010Prop38
+140
+0.0
+102
+RTVSPost2010PropOp38
+ 70
+     1
+102
+RTVSPost2010Prop39
+140
+1.0
+102
+RTVSPost2010PropOp39
+ 70
+     1
+102
+RTVSPost2010Prop40
+ 90
+        0
+102
+RTVSPost2010PropOp40
+ 70
+     1
+102
+RTVSPost2010Prop41ColorIndex
+ 90
+       18
+102
+RTVSPost2010Prop41ColorRGB
+ 90
+        0
+102
+RTVSPost2010PropOp41
+ 70
+     1
+102
+RTVSPost2010Prop42
+ 90
+       50
+102
+RTVSPost2010PropOp42
+ 70
+     1
+102
+RTVSPost2010Prop43
+ 90
+        3
+102
+RTVSPost2010PropOp43
+ 70
+     1
+102
+RTVSPost2010Prop44ColorIndex
+ 90
+        5
+102
+RTVSPost2010Prop44ColorRGB
+ 90
+      255
+102
+RTVSPost2010PropOp44
+ 70
+     1
+102
+RTVSPost2010Prop45
+280
+     0
+102
+RTVSPost2010PropOp45
+ 70
+     1
+102
+RTVSPost2010Prop46
+ 90
+       50
+102
+RTVSPost2010PropOp46
+ 70
+     1
+102
+RTVSPost2010Prop47
+ 90
+       50
+102
+RTVSPost2010PropOp47
+ 70
+     1
+102
+RTVSPost2010Prop48
+ 90
+       50
+102
+RTVSPost2010PropOp48
+ 70
+     1
+102
+RTVSPost2010Prop49
+280
+     0
+102
+RTVSPost2010PropOp49
+ 70
+     1
+102
+RTVSPost2010Prop50
+ 90
+       50
+102
+RTVSPost2010PropOp50
+ 70
+     1
+102
+RTVSPost2010Prop51ColorIndex
+ 90
+      256
+102
+RTVSPost2010Prop51ColorRGB
+ 90
+-16777216
+102
+RTVSPost2010PropOp51
+ 70
+     0
+102
+RTVSPost2010Prop52
+140
+1.0
+102
+RTVSPost2010PropOp52
+ 70
+     0
+102
+RTVSPost2010Prop53
+ 90
+        2
+102
+RTVSPost2010PropOp53
+ 70
+     1
+102
+RTVSPost2010Prop54
+  1
+strokes_ogs.tif
+102
+RTVSPost2010PropOp54
+ 70
+     1
+102
+RTVSPost2010Prop55
+280
+     0
+102
+RTVSPost2010PropOp55
+ 70
+     1
+102
+RTVSPost2010Prop56
+140
+1.0
+102
+RTVSPost2010PropOp56
+ 70
+     1
+102
+RTVSPost2010Prop57
+140
+1.0
+102
+RTVSPost2010PropOp57
+ 70
+     1
+102
+RTVSPropertyOp0
+ 70
+     1
+102
+RTVSPropertyOp1
+ 70
+     1
+102
+RTVSPropertyOp2
+ 70
+     1
+102
+RTVSPropertyOp3
+ 70
+     1
+102
+RTVSPropertyOp4
+ 70
+     1
+102
+RTVSPropertyOp5
+ 70
+     1
+102
+RTVSPropertyOp6
+ 70
+     1
+102
+RTVSPropertyOp7
+ 70
+     1
+102
+RTVSPropertyOp8
+ 70
+     1
+102
+RTVSPropertyOp9
+ 70
+     1
+102
+RTVSPropertyOp10
+ 70
+     1
+102
+RTVSPropertyOp11
+ 70
+     1
+102
+RTVSPropertyOp12
+ 70
+     1
+102
+RTVSPropertyOp13
+ 70
+     1
+102
+RTVSPropertyOp14
+ 70
+     1
+102
+RTVSPropertyOp15
+ 70
+     1
+102
+RTVSPropertyOp16
+ 70
+     1
+102
+RTVSPropertyOp17
+ 70
+     1
+102
+RTVSPropertyOp18
+ 70
+     1
+102
+RTVSPropertyOp19
+ 70
+     1
+102
+RTVSPropertyOp20
+ 70
+     1
+102
+RTVSPropertyOp21
+ 70
+     1
+102
+RTVSPropertyOp22
+ 70
+     1
+102
+RTVSPropertyOp23
+ 70
+     1
+102
+RTVSPropertyOp24
+ 70
+     1
+102
+RTVSPropertyOp25
+ 70
+     1
+102
+RTVSPropertyOp26
+ 70
+     1
+102
+RTVSPropertyOp27
+ 70
+     1
+102
+RTVSPropertyOp28
+ 70
+     1
+102
+RTVSPropertyOp29
+ 70
+     1
+102
+RTVSPropertyOp30
+ 70
+     1
+102
+RTVSPropertyOp31
+ 70
+     1
+102
+RTVSPropertyOp32
+ 70
+     1
+102
+RTVSPropertyOp33
+ 70
+     1
+102
+RTVSPropertyOp34
+ 70
+     1
+102
+RTVSPropertyOp35
+ 70
+     1
+102
+RTVSPropertyOp36
+ 70
+     1
+102
+RTVSPropertyOp37
+ 70
+     1
+102
+RTVSPropertyOp38
+ 70
+     1
+102
+RTVSPropertyOp39
+ 70
+     1
+102
+RTVSPropertyOp40
+ 70
+     1
+102
+RTVSPropertyOp41
+ 70
+     1
+102
+RTVSPropertyOp42
+ 70
+     1
+102
+RTVSPropertyOp43
+ 70
+     1
+102
+RTVSPropertyOp44
+ 70
+     1
+102
+RTVSPropertyOp45
+ 70
+     1
+102
+RTVSPropertyOp46
+ 70
+     1
+102
+RTVSPropertyOp47
+ 70
+     1
+102
+RTVSPropertyOp48
+ 70
+     1
+102
+RTVSPropertyOp49
+ 70
+     1
+102
+RTVSPropertyOp50
+ 70
+     1
+102
+RTVSPropertyOp51
+ 70
+     0
+102
+RTVSPropertyOp52
+ 70
+     0
+102
+RTVSPropertyOp53
+ 70
+     1
+102
+RTVSPropertyOp54
+ 70
+     1
+102
+RTVSPropertyOp55
+ 70
+     1
+102
+RTVSPropertyOp56
+ 70
+     1
+102
+RTVSPropertyOp57
+ 70
+     1
+102
+RTVSPropertyOp58
+ 70
+     1
+102
+RTVSPropertyOp59
+ 70
+     1
+102
+RTVSPropertyOp60
+ 70
+     1
+102
+RTVSPropertyOp61
+ 70
+     1
+102
+RTVSPropertyOp62
+ 70
+     1
+  0
+ENDSEC
+  0
+EOF
