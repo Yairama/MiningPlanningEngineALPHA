@@ -27,6 +27,7 @@ If you have performed the steps correctly, the following window should open
 use WASD keys for movement and mouse movement for camera view and pres ESC key to close.
 
 ###TO DO:
+
 -Remove the windows focus bug.
 
 -Complete the GUI.
