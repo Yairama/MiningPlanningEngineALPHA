@@ -7,6 +7,6 @@
 (
     title: "Mining Planning Engine",
     dimensions: Some((1400,1000)),
-    always_on_top: true
+
 
 )

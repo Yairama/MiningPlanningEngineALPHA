@@ -63,7 +63,7 @@ impl SimpleState for PlanningCore {
         // Setup debug lines as a resource
         data.world.insert(DebugLines::new());
         // Configure width of lines. Optional step
-        data.world.insert(DebugLinesParams { line_width: 2.0 });
+        data.world.insert(DebugLinesParams { line_width: 1.0 });
 
         // Setup debug lines as a component and add lines to render axes & grid
         let mut debug_lines_component = DebugLinesComponent::with_capacity(100);
@@ -89,8 +89,8 @@ impl SimpleState for PlanningCore {
             Srgba::new(0.2, 0.75, 0.93, 1.0),
         );
 
-        let width: u32 = 10;
-        let depth: u32 = 10;
+        let width: u32 = 100;
+        let depth: u32 = 100;
         let main_color = Srgba::new(0.4, 0.4, 0.4, 1.0);
 
         // Grid lines in X-axis
@@ -185,10 +185,7 @@ fn main() -> amethyst::Result<()> {
         Some(String::from("move_x")),
         Some(String::from("move_y")),
         Some(String::from("move_z")),
-    )
-        .with_sensitivity(0.1, 0.1)
-
-        ;
+    ).with_sensitivity(0.1, 0.1);
 
 /*    let mut game_data = GameDataBuilder::default()
         .with_barrier()
@@ -205,17 +202,15 @@ fn main() -> amethyst::Result<()> {
             InputBundle::<StringBindings>::new().with_bindings_from_file(&key_bindings_path)?,
         )?
         .with(ExampleLinesSystem, "example_lines_system", &[])
-        .with( ui::principal_window_ui::UIPlanningEngine::default(), "imgui_use", &[])
         .with_bundle(fly_control_bundle)?
         .with_bundle(TransformBundle::new().with_dep(&["mouse_focus"]))?
-
         .with_bundle(
             RenderingBundle::<DefaultBackend>::new()
                 .with_plugin(RenderToWindow::from_config_path(display_config_path)?)
                 .with_plugin(RenderDebugLines::default())
                 .with_plugin(RenderSkybox::default())
                 .with_plugin(RenderImgui::<StringBindings>::default()),
-        )?;
+        )?.with( ui::principal_window_ui::UIPlanningEngine::default(), "imgui_use", &[]);
 
     let mut game = Application::build(assets_dir, PlanningCore)?.build(game_data)?;
     game.run();
