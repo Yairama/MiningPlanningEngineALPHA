@@ -1,5 +1,7 @@
 # MiningPlanningEngine
+
 ##A planning engine for mining engineering
+
 ###How to build
 
 You need to have a [git][gitLink] version control system installed.
