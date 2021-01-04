@@ -1,8 +1,8 @@
 # MiningPlanningEngine
 
-##A planning engine for mining engineering
+## A planning engine for mining engineering
 
-###How to build
+### How to build
 
 You need to have a [git][gitLink] version control system installed.
 
@@ -26,7 +26,7 @@ If you have performed the steps correctly, the following window should open
 
 use WASD keys for movement and mouse movement for camera view and pres ESC key to close.
 
-###TO DO:
+### TO DO:
 
 -Remove the windows focus bug.
 
