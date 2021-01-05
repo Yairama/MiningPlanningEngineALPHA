@@ -1,178 +1,74 @@
 
 pub mod config;
 pub mod ui;
+pub mod world_resources;
 
 use amethyst::{
-    controls::{FlyControlBundle, FlyControlTag},
-    core::{
-        math::{Point3, Vector3},
-        transform::{Transform, TransformBundle},
-        Time,
-    },
-    derive::SystemDesc,
-    ecs::{Read, System, SystemData, WorldExt, Write},
-    input::{is_close_requested, is_key_down, InputBundle, StringBindings},
+    controls::{FlyControlBundle,HideCursor},
+    core::TransformBundle,
+    input::{is_close_requested, is_key_down, is_mouse_button_down, InputBundle, StringBindings,InputEvent},
     prelude::*,
     renderer::{
-        camera::Camera,
-        debug_drawing::{DebugLines, DebugLinesComponent, DebugLinesParams},
-        palette::Srgba,
         plugins::{RenderDebugLines, RenderSkybox, RenderToWindow},
         types::DefaultBackend,
         RenderingBundle,
     },
     utils::application_root_dir,
-    winit::VirtualKeyCode,
+    winit::{VirtualKeyCode, MouseButton},
 };
 
 
 use amethyst_imgui::RenderImgui;
-use amethyst::core::SystemBundle;
 
 
-#[derive(SystemDesc)]
-struct ExampleLinesSystem;
-
-impl<'s> System<'s> for ExampleLinesSystem {
-    type SystemData = (
-        Write<'s, DebugLines>, // Request DebugLines resource
-        Read<'s, Time>,
-    );
-
-    fn run(&mut self, (mut debug_lines_resource, time): Self::SystemData) {
-        // Drawing debug lines as a resource
-        let t = (time.absolute_time_seconds() as f32).cos();
-
-        debug_lines_resource.draw_direction(
-            Point3::new(t, 0.0, 0.5),
-            Vector3::new(0.0, 0.3, 0.0),
-            Srgba::new(0.5, 0.05, 0.65, 1.0),
-        );
-
-        debug_lines_resource.draw_line(
-            Point3::new(t, 0.0, 0.5),
-            Point3::new(0.0, 0.0, 0.2),
-            Srgba::new(0.5, 0.05, 0.65, 1.0),
-        );
-    }
-}
 
 struct PlanningCore;
 impl SimpleState for PlanningCore {
-    fn on_start(&mut self, data: StateData<'_, GameData>) {
-        // Setup debug lines as a resource
-        data.world.insert(DebugLines::new());
-        // Configure width of lines. Optional step
-        data.world.insert(DebugLinesParams { line_width: 1.0 });
 
-        // Setup debug lines as a component and add lines to render axes & grid
-        let mut debug_lines_component = DebugLinesComponent::with_capacity(100);
-
-        // X-axis (red)
-        debug_lines_component.add_direction(
-            Point3::new(0.0, 0.0001, 0.0),
-            Vector3::new(0.2, 0.0, 0.0),
-            Srgba::new(1.0, 0.0, 0.23, 1.0),
-        );
-
-        // Y-axis (yellowish-green)
-        debug_lines_component.add_direction(
-            Point3::new(0.0, 0.0, 0.0),
-            Vector3::new(0.0, 0.2, 0.0),
-            Srgba::new(0.5, 0.85, 0.1, 1.0),
-        );
-
-        // Z-axis (blue)
-        debug_lines_component.add_direction(
-            Point3::new(0.0, 0.0001, 0.0),
-            Vector3::new(0.0, 0.0, 0.2),
-            Srgba::new(0.2, 0.75, 0.93, 1.0),
-        );
-
-        let width: u32 = 100;
-        let depth: u32 = 100;
-        let main_color = Srgba::new(0.4, 0.4, 0.4, 1.0);
-
-        // Grid lines in X-axis
-        for x in 0..=width {
-            let (x, width, depth) = (x as f32, width as f32, depth as f32);
-
-            let position = Point3::new(x - width / 2.0, 0.0, -depth / 2.0);
-            let direction = Vector3::new(0.0, 0.0, depth);
-
-            debug_lines_component.add_direction(position, direction, main_color);
-
-            // Sub-grid lines
-            if (x - width).abs() < 0.0001 {
-                for sub_x in 1..10 {
-                    let sub_offset = Vector3::new((1.0 / 10.0) * sub_x as f32, -0.001, 0.0);
-
-                    debug_lines_component.add_direction(
-                        &position + sub_offset,
-                        direction,
-                        Srgba::new(0.1, 0.1, 0.1, 0.2),
-                    );
+    fn handle_event(&mut self, data: StateData<'_, GameData>, event: StateEvent) -> SimpleTrans {
+        let StateData { world, .. } = data;
+        //world.write_resource::<HideCursor>().hide = false;
+        match &event {
+            StateEvent::Window(event) => {
+                // Exit if the user hits escape
+                if is_close_requested(&event) || is_key_down(&event, VirtualKeyCode::Escape) {
+                    return Trans::Quit;
                 }
+
             }
+
+            StateEvent::Input(event)=>{
+
+                if event == &(InputEvent::MouseButtonPressed(MouseButton::Right) as InputEvent<StringBindings>) {
+                    world.write_resource::<HideCursor>().hide = true;
+                }
+
+                if event == &(InputEvent::MouseButtonReleased(MouseButton::Right) as InputEvent<StringBindings>) {
+                    world.write_resource::<HideCursor>().hide = false;
+                }
+
+            }
+
+            StateEvent::Ui(ui_event) => {
+                log::info!(
+                    "[HANDLE_EVENT] You just interacted with a ui element: {:?}",
+                    ui_event
+                );
+            }
+            data => {}
         }
 
-        // Grid lines in Z-axis
-        for z in 0..=depth {
-            let (z, width, depth) = (z as f32, width as f32, depth as f32);
-
-            let position = Point3::new(-width / 2.0, 0.0, z - depth / 2.0);
-            let direction = Vector3::new(width, 0.0, 0.0);
-
-            debug_lines_component.add_direction(position, direction, main_color);
-
-            // Sub-grid lines
-            if (z - depth).abs() < 0.0001 {
-                for sub_z in 1..10 {
-                    let sub_offset = Vector3::new(0.0, -0.001, (1.0 / 10.0) * sub_z as f32);
-
-                    debug_lines_component.add_direction(
-                        &position + sub_offset,
-                        direction,
-                        Srgba::new(0.1, 0.1, 0.1, 0.2),
-                    );
-                }
-            }
-        }
-
-        // Debug lines are automatically rendered by including the debug lines
-        // rendering plugin
-        data.world.register::<DebugLinesComponent>();
-        data.world
-            .create_entity()
-            .with(debug_lines_component)
-            .build();
-
-        // Setup camera
-        let mut local_transform = Transform::default();
-        local_transform.set_translation_xyz(0.0, 0.5, 2.0);
-        data.world
-            .create_entity()
-            .with(FlyControlTag)
-            .with(Camera::perspective(
-                1.33333,
-                std::f32::consts::FRAC_PI_2,
-                0.1,
-            ))
-            .with(local_transform)
-            .build();
+        Trans::None
     }
 
-    fn handle_event(&mut self, _: StateData<'_, GameData>, event: StateEvent) -> SimpleTrans {
-        if let StateEvent::Window(event) = event {
-            if is_close_requested(&event) || is_key_down(&event, VirtualKeyCode::Escape) {
-                Trans::Quit
-            } else {
-                Trans::None
-            }
-        } else {
-            Trans::None
-        }
+    fn on_start(&mut self, mut data: StateData<'_, GameData>) {
+
+        world_resources::debug_lines::set_debug_lines(&mut data.world);
+        let StateData { world, .. } = data;
+        world.write_resource::<HideCursor>().hide = false;
     }
+
+
 }
 
 fn main() -> amethyst::Result<()> {
@@ -201,9 +97,9 @@ fn main() -> amethyst::Result<()> {
         .with_bundle(
             InputBundle::<StringBindings>::new().with_bindings_from_file(&key_bindings_path)?,
         )?
-        .with(ExampleLinesSystem, "example_lines_system", &[])
+        .with(world_resources::debug_lines::ExampleLinesSystem, "example_lines_system", &[])
         .with_bundle(fly_control_bundle)?
-        .with_bundle(TransformBundle::new().with_dep(&["mouse_focus"]))?
+        .with_bundle(TransformBundle::new().with_dep(&["fly_movement"]))?
         .with_bundle(
             RenderingBundle::<DefaultBackend>::new()
                 .with_plugin(RenderToWindow::from_config_path(display_config_path)?)

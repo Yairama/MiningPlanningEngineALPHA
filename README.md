@@ -17,8 +17,13 @@ git clone https://github.com/Yairama/MiningPlanningEngine.git
 ```
 cd MinningPlanningEngine
 ```
+For Windows OS:
 ```
-cargo run
+cargo run --features vulkan
+```
+For MAC OS:
+```
+cargo run --features metal
 ```
 If you have performed the steps correctly, the following window should open
 
@@ -27,8 +32,6 @@ If you have performed the steps correctly, the following window should open
 use WASD keys for movement and mouse movement for camera view and pres ESC key to close.
 
 ### TO DO:
-
--Remove the windows focus bug.
 
 -Complete the GUI.
 

@@ -1,12 +1,6 @@
 
-use amethyst_imgui::imgui::{im_str, Condition, Window, MainMenuBarToken, MenuItem};
-use amethyst::{
-    ui::Widgets,
-    utils::application_root_dir
-};
+use amethyst_imgui::imgui::{im_str, Condition, Window, MenuItem};
 use std::fs;
-use amethyst::window::ScreenDimensions;
-use amethyst::shred::ReadExpect;
 
 #[derive(Default, Clone, Copy)]
 pub struct UIPlanningEngine;
