@@ -6,7 +6,7 @@ pub mod world_resources;
 use amethyst::{
     controls::{FlyControlBundle,HideCursor},
     core::TransformBundle,
-    input::{is_close_requested, is_key_down, is_mouse_button_down, InputBundle, StringBindings,InputEvent},
+    input::{is_close_requested, is_key_down, InputBundle, StringBindings,InputEvent},
     prelude::*,
     renderer::{
         plugins::{RenderDebugLines, RenderSkybox, RenderToWindow},
@@ -55,7 +55,6 @@ impl SimpleState for PlanningCore {
                     ui_event
                 );
             }
-            data => {}
         }
 
         Trans::None
@@ -64,6 +63,7 @@ impl SimpleState for PlanningCore {
     fn on_start(&mut self, mut data: StateData<'_, GameData>) {
 
         world_resources::debug_lines::set_debug_lines(&mut data.world);
+        world_resources::camera_controller::set_up_camera(&mut data.world);
         let StateData { world, .. } = data;
         world.write_resource::<HideCursor>().hide = false;
     }

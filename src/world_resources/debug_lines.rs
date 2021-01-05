@@ -1,17 +1,14 @@
 
 
 use amethyst::{
-    controls::{FlyControlTag},
     core::{
         math::{Point3, Vector3},
-        transform::{Transform},
         Time,
     },
     derive::SystemDesc,
     ecs::{Read, System, SystemData, WorldExt, Write},
     prelude::*,
     renderer::{
-        camera::Camera,
         debug_drawing::{DebugLines, DebugLinesComponent, DebugLinesParams},
         palette::Srgba,
     },
@@ -134,18 +131,5 @@ pub fn set_debug_lines(world: &mut World){
         .with(debug_lines_component)
         .build();
 
-    // Setup camera
-    let mut local_transform = Transform::default();
-    local_transform.set_translation_xyz(0.0, 0.5, 2.0);
-    world
-        .create_entity()
-        .with(FlyControlTag)
-        .with(Camera::perspective(
-            1.33333,
-            std::f32::consts::FRAC_PI_2,
-            0.1,
-        ))
-        .with(local_transform)
-        .build();
 
 }
