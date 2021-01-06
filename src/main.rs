@@ -1,7 +1,12 @@
 
-pub mod config;
-pub mod ui;
-pub mod world_resources;
+#[path = "./config/config.rs"]
+mod config;
+#[path = "./ui/principal_window_ui.rs"]
+mod principal_window_ui;
+#[path = "./world_resources/camera_controller.rs"]
+mod camera_controller;
+#[path = "./world_resources/debug_lines.rs"]
+mod debug_lines;
 
 use amethyst::{
     controls::{FlyControlBundle,HideCursor},
@@ -19,7 +24,7 @@ use amethyst::{
 
 
 use amethyst_imgui::RenderImgui;
-
+use amethyst::winit::{Window, EventsLoop};
 
 
 struct PlanningCore;
@@ -55,6 +60,7 @@ impl SimpleState for PlanningCore {
                     ui_event
                 );
             }
+            _=>(),
         }
 
         Trans::None
@@ -62,10 +68,12 @@ impl SimpleState for PlanningCore {
 
     fn on_start(&mut self, mut data: StateData<'_, GameData>) {
 
-        world_resources::debug_lines::set_debug_lines(&mut data.world);
-        world_resources::camera_controller::set_up_camera(&mut data.world);
+        debug_lines::set_debug_lines(&mut data.world);
+        camera_controller::set_up_camera(&mut data.world);
         let StateData { world, .. } = data;
         world.write_resource::<HideCursor>().hide = false;
+
+
     }
 
 
@@ -81,7 +89,8 @@ fn main() -> amethyst::Result<()> {
         Some(String::from("move_x")),
         Some(String::from("move_y")),
         Some(String::from("move_z")),
-    ).with_sensitivity(0.1, 0.1);
+
+    ).with_sensitivity(0.4, 0.4).with_speed(5.0);
 
 /*    let mut game_data = GameDataBuilder::default()
         .with_barrier()
@@ -97,7 +106,7 @@ fn main() -> amethyst::Result<()> {
         .with_bundle(
             InputBundle::<StringBindings>::new().with_bindings_from_file(&key_bindings_path)?,
         )?
-        .with(world_resources::debug_lines::ExampleLinesSystem, "example_lines_system", &[])
+        .with(debug_lines::ExampleLinesSystem, "example_lines_system", &[])
         .with_bundle(fly_control_bundle)?
         .with_bundle(TransformBundle::new().with_dep(&["fly_movement"]))?
         .with_bundle(
@@ -106,7 +115,7 @@ fn main() -> amethyst::Result<()> {
                 .with_plugin(RenderDebugLines::default())
                 .with_plugin(RenderSkybox::default())
                 .with_plugin(RenderImgui::<StringBindings>::default()),
-        )?.with( ui::principal_window_ui::UIPlanningEngine::default(), "imgui_use", &[]);
+        )?.with( principal_window_ui::UIPlanningEngine::default(), "imgui_use", &[]);
 
     let mut game = Application::build(assets_dir, PlanningCore)?.build(game_data)?;
     game.run();

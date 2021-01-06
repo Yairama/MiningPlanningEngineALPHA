@@ -47,7 +47,7 @@ pub fn set_debug_lines(world: &mut World){
     // Setup debug lines as a resource
     world.insert(DebugLines::new());
     // Configure width of lines. Optional step
-    world.insert(DebugLinesParams { line_width: 1.0 });
+    world.insert(DebugLinesParams { line_width: 0.5 });
 
     // Setup debug lines as a component and add lines to render axes & grid
     let mut debug_lines_component = DebugLinesComponent::with_capacity(100);

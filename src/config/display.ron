@@ -6,7 +6,7 @@
 
 (
     title: "Mining Planning Engine",
-    dimensions: Some((1400,1000)),
+    dimensions: Some((1980,1080)),
 
 
 )
