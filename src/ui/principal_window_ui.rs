@@ -5,11 +5,12 @@ mod draw_dxf;
 use amethyst_imgui::imgui::{im_str, Condition, Window, MenuItem, Ui};
 use std::fs;
 use amethyst::DataInit;
+use specs::{Entities, WriteStorage};
+use crate::components::DXFNodes;
+use amethyst::renderer::debug_drawing::DebugLinesComponent;
 
 
-
-
-fn build_gui(ui: &Ui){
+fn build_gui(ui: &Ui, entities: Entities,mut dxf_nodes: WriteStorage<DXFNodes>, mut debug_lines_component: WriteStorage<DebugLinesComponent>){
 
 
 
@@ -32,12 +33,12 @@ fn build_gui(ui: &Ui){
         menu_bar.end(ui);
     }
 
-    Window::new(im_str!("Project Explorer")).
-        size([300.0, 500.0], Condition::FirstUseEver)
+    Window::new(im_str!("Project Explorer"))
+        .size([300.0, 150.0], Condition::Always)
         .movable(false)
         .resizable(false)
         .collapsible(false)
-        .position([0.0,40.0],Condition::Always)
+        .position([10.0,500.0],Condition::Always)
         .build(ui,||{
 
             let dir = String::from("projects/");
@@ -50,34 +51,43 @@ fn build_gui(ui: &Ui){
 
                         let mut a = dir.clone();
                         a.push_str(&item);
-                        draw_dxf::draw_dxf(&a);
+                        draw_dxf::draw_dxf(&a,&entities, &mut dxf_nodes, &mut debug_lines_component);
                     }
-
                     if MenuItem::new(&im_str!("Generate 3D Surface")).build(ui){
 
                     }
-
-
                     menu.end(ui);
                 }
                 ui.separator();
             }
-
-
-
         });
 
+    Window::new(im_str!("Nodes Tree"))
+        .size([300.0,400.0], Condition::Always)
+        .movable(false)
+        .resizable(false)
+        .collapsible(false)
+        .position([10.0,20.0],Condition::Always)
+        .build(ui,||{
 
+
+
+            ui.separator();
+        })
 }
 
 #[derive(Default, Clone, Copy)]
 pub struct UIPlanningEngine;
 impl<'s> amethyst::ecs::System<'s> for UIPlanningEngine {
-    type SystemData = ();
+    type SystemData = (
+        Entities<'s>,
+        WriteStorage<'s, DXFNodes>,
+        WriteStorage<'s, DebugLinesComponent>
+    );
 
-    fn run(&mut self, _: Self::SystemData) {
+    fn run(&mut self, (entities, mut dxf_nodes, mut debug_lines_component): Self::SystemData) {
 
-        amethyst_imgui::with(|ui| build_gui(ui));
+        amethyst_imgui::with(|ui| build_gui(ui,entities, dxf_nodes, debug_lines_component ));
 
     }
 

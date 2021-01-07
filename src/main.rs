@@ -7,6 +7,9 @@ mod principal_window_ui;
 mod camera_controller;
 #[path = "./world_resources/debug_lines.rs"]
 mod debug_lines;
+#[path = "./components/components.rs"]
+mod components;
+use crate::components::DXFNodes;
 
 use amethyst::{
     controls::{FlyControlBundle,HideCursor},
@@ -25,6 +28,7 @@ use amethyst::{
 
 use amethyst_imgui::RenderImgui;
 use amethyst::winit::{Window, EventsLoop};
+use amethyst::renderer::debug_drawing::{DebugLines, DebugLinesComponent};
 
 
 struct PlanningCore;
@@ -67,11 +71,13 @@ impl SimpleState for PlanningCore {
     }
 
     fn on_start(&mut self, mut data: StateData<'_, GameData>) {
-
-        debug_lines::set_debug_lines(&mut data.world);
-        camera_controller::set_up_camera(&mut data.world);
         let StateData { world, .. } = data;
         world.write_resource::<HideCursor>().hide = false;
+        world.register::<DXFNodes>();
+        world.register::<DebugLinesComponent>();
+        debug_lines::set_debug_lines(world);
+        camera_controller::set_up_camera(world);
+
 
 
     }
@@ -90,7 +96,7 @@ fn main() -> amethyst::Result<()> {
         Some(String::from("move_y")),
         Some(String::from("move_z")),
 
-    ).with_sensitivity(0.4, 0.4).with_speed(5.0);
+    ).with_sensitivity(0.4, 0.4).with_speed(100.0);
 
 /*    let mut game_data = GameDataBuilder::default()
         .with_barrier()
