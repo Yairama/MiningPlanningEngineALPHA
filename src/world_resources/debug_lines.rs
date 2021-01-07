@@ -125,10 +125,10 @@ pub fn set_debug_lines(world: &mut World){
 
     // Debug lines are automatically rendered by including the debug lines
     // rendering plugin
-   /* world
+    world
         .create_entity()
         .with(debug_lines_component)
-        .build();*/
+        .build();
 
 
 }
