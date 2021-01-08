@@ -10,6 +10,7 @@ You need to have [Rust][RustLink] installed.
 
 [RustLink]:https://www.rust-lang.org/tools/install
 [gitLink]:https://git-scm.com
+First unzip the files into \MiningPlanningEngine\projects\ folder
 Then run the followings commands in a console (you will need to be given access to the repository)
 ```
 git clone https://github.com/Yairama/MiningPlanningEngine.git
@@ -33,7 +34,7 @@ cargo run --release --features metal/vulkan
 
 If you have performed the steps correctly, the following window should open
 
-![In-game screenshot](screenshots/2021-01-03.png)
+![In-game screenshot](screenshots/2021-01-08.png)
 
 use WASD keys for movement and mouse movement for camera view and pres ESC key to close.
 
@@ -41,4 +42,4 @@ use WASD keys for movement and mouse movement for camera view and pres ESC key t
 
 -Complete the GUI.
 
--Add functionality for analyzing DXF files
+-Add Cubes maps generator
