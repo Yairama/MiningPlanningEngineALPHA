@@ -4,11 +4,11 @@ use dxf::{
     Drawing, entities::*
 };
 use amethyst::core::math::{Point3, Point};
-use specs::{Entities, WriteStorage};
 use crate::components::DXFNodes;
 use amethyst::renderer::debug_drawing::DebugLinesComponent;
 use amethyst::renderer::palette::Srgba;
 use std::cmp;
+use amethyst::core::ecs::{Entities, WriteStorage};
 
 pub fn draw_dxf(dir: &String, entities: &Entities, dxf_nodes: &mut WriteStorage<DXFNodes>, debug_lines_component: &mut WriteStorage<DebugLinesComponent>){
 
@@ -57,7 +57,7 @@ pub fn draw_dxf(dir: &String, entities: &Entities, dxf_nodes: &mut WriteStorage<
 
     let mut lines = DebugLinesComponent::with_capacity(1000000);
 
-    for layer in p_entities{
+    for layer in &p_entities{
         let mut count =0usize;
 
         loop{

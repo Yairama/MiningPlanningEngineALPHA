@@ -25,6 +25,12 @@ For MAC OS:
 ```
 cargo run --features metal
 ```
+
+For a release run (much faster):
+```
+cargo run --release --features metal/vulkan
+```
+
 If you have performed the steps correctly, the following window should open
 
 ![In-game screenshot](screenshots/2021-01-03.png)

@@ -5,9 +5,9 @@ mod draw_dxf;
 use amethyst_imgui::imgui::{im_str, Condition, Window, MenuItem, Ui};
 use std::fs;
 use amethyst::DataInit;
-use specs::{Entities, WriteStorage};
 use crate::components::DXFNodes;
 use amethyst::renderer::debug_drawing::DebugLinesComponent;
+use amethyst::core::ecs::{Entities, WriteStorage};
 
 
 fn build_gui(ui: &Ui, entities: Entities,mut dxf_nodes: WriteStorage<DXFNodes>, mut debug_lines_component: WriteStorage<DebugLinesComponent>){
@@ -47,15 +47,17 @@ fn build_gui(ui: &Ui, entities: Entities,mut dxf_nodes: WriteStorage<DXFNodes>, 
                 let item = path.unwrap().path().display().to_string().replace(&dir,"");
                 if let Some(menu) = ui.begin_menu(&im_str!("{}",item), true) {
 
-                    if MenuItem::new(&im_str!("Draw DXF")).build(ui) {
+                   if item.to_ascii_lowercase().contains(".dxf") {
+                       if MenuItem::new(&im_str!("Draw DXF")).build(ui) {
 
-                        let mut a = dir.clone();
-                        a.push_str(&item);
-                        draw_dxf::draw_dxf(&a,&entities, &mut dxf_nodes, &mut debug_lines_component);
-                    }
-                    if MenuItem::new(&im_str!("Generate 3D Surface")).build(ui){
+                           let mut a = dir.clone();
+                           a.push_str(&item);
+                           draw_dxf::draw_dxf(&a,&entities, &mut dxf_nodes, &mut debug_lines_component);
+                       }
+                       if MenuItem::new(&im_str!("Generate 3D Surface")).build(ui){
 
-                    }
+                       }
+                   }
                     menu.end(ui);
                 }
                 ui.separator();

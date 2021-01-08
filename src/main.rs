@@ -29,6 +29,7 @@ use amethyst::{
 use amethyst_imgui::RenderImgui;
 use amethyst::winit::{Window, EventsLoop};
 use amethyst::renderer::debug_drawing::{DebugLines, DebugLinesComponent};
+use amethyst::window::ScreenDimensions;
 
 
 struct PlanningCore;
@@ -37,7 +38,10 @@ impl SimpleState for PlanningCore {
     fn handle_event(&mut self, data: StateData<'_, GameData>, event: StateEvent) -> SimpleTrans {
         let StateData { world, .. } = data;
         //world.write_resource::<HideCursor>().hide = false;
-        match &event {
+        match event {
+
+
+
             StateEvent::Window(event) => {
                 // Exit if the user hits escape
                 if is_close_requested(&event) || is_key_down(&event, VirtualKeyCode::Escape) {
@@ -48,13 +52,18 @@ impl SimpleState for PlanningCore {
 
             StateEvent::Input(event)=>{
 
-                if event == &(InputEvent::MouseButtonPressed(MouseButton::Right) as InputEvent<StringBindings>) {
-                    world.write_resource::<HideCursor>().hide = true;
+                match event  {
+                    InputEvent::MouseButtonPressed(MouseButton::Right) => {
+                        world.write_resource::<HideCursor>().hide = true;
+                    }
+
+                    InputEvent::MouseButtonReleased(MouseButton::Right) => {
+                        world.write_resource::<HideCursor>().hide = false;
+                    }
+
+                    _ => {}
                 }
 
-                if event == &(InputEvent::MouseButtonReleased(MouseButton::Right) as InputEvent<StringBindings>) {
-                    world.write_resource::<HideCursor>().hide = false;
-                }
 
             }
 
@@ -73,6 +82,7 @@ impl SimpleState for PlanningCore {
     fn on_start(&mut self, mut data: StateData<'_, GameData>) {
         let StateData { world, .. } = data;
         world.write_resource::<HideCursor>().hide = false;
+        world.write_resource::<Window>().set_maximized(true);
         world.register::<DXFNodes>();
         world.register::<DebugLinesComponent>();
         debug_lines::set_debug_lines(world);

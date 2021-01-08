@@ -1,5 +1,5 @@
 use amethyst::core::math::Point3;
-use specs::{Component, DenseVecStorage};
+use amethyst::core::ecs::{Component, DenseVecStorage};
 
 pub struct DXFNodes {
     pub node_name: String,

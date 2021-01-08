@@ -9,7 +9,6 @@ dependencies = [
  "amethyst_locale",
  "dxf",
  "log",
- "specs",
 ]
 
 [[package]]
