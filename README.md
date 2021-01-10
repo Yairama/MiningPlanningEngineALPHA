@@ -43,3 +43,11 @@ use WASD keys for movement and mouse movement for camera view and pres ESC key t
 -Complete the GUI.
 
 -Add Cubes maps generator
+
+## Results
+got to big_topo.DXF/ Draw DXF in the menu option, then go to parsed_cubes.csv/ Generate Cube Maps.
+If you have performed the steps correctly, the following window should open:
+
+![In-game screenshot2](screenshots/2021-01-10.png)
+
+See a detailed video in ```screenshots/Mining Planning Engine 2021-01-10 08-26-18.mp4```
