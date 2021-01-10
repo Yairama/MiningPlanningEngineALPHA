@@ -1,5 +1,6 @@
-# MiningPlanningEngine
 
+# MiningPlanningEngineALPHA
+## NOTE: The repository will be archived to start with a beta dev.
 ## A planning engine for mining engineering
 
 ### How to build
