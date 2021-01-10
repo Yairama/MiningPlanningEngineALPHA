@@ -18,3 +18,23 @@ impl DXFNodes{
 impl Component for DXFNodes{
     type Storage = DenseVecStorage<Self>;
 }
+
+pub struct CSVNodes {
+
+    pub node_name: String,
+    pub cube_map_nodes: Vec<Vec<Point3<f32>>>,
+    pub p_min: Point3<f32>
+
+}
+
+impl CSVNodes {
+    pub fn new(node_name: String, cube_map_nodes: Vec<Vec<Point3<f32>>>, p_min: Point3<f32>) -> CSVNodes {
+        CSVNodes {
+            node_name, cube_map_nodes, p_min
+        }
+    }
+}
+
+impl Component for CSVNodes {
+    type Storage = DenseVecStorage<Self>;
+}

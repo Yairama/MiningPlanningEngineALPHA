@@ -10,7 +10,7 @@ use amethyst::renderer::palette::Srgba;
 use std::cmp;
 use amethyst::core::ecs::{Entities, WriteStorage};
 
-pub fn draw_dxf(dir: &String, entities: &Entities, dxf_nodes: &mut WriteStorage<DXFNodes>, debug_lines_component: &mut WriteStorage<DebugLinesComponent>){
+pub fn draw_dxf(dir: String, entities: &Entities, dxf_nodes: &mut WriteStorage<DXFNodes>, debug_lines_component: &mut WriteStorage<DebugLinesComponent>){
 
     let dxf_file= Drawing::load_file(&dir).unwrap();
     let mut p_entities: Vec<Vec<Point3<f32>>> = Vec::new();
@@ -65,8 +65,8 @@ pub fn draw_dxf(dir: &String, entities: &Entities, dxf_nodes: &mut WriteStorage<
             let v2 = &layer[&count.clone()+1];
             //println!("lengs {} {} {}",v1.x,v1.y,v1.z);
             lines.add_line(
-                Point3::new(v1.x - x_min, v1.y-z_min, v1.z-y_min),
-                Point3::new(v2.x-x_min, v2.y-z_min, v2.z-y_min),
+                Point3::new(v1.x - 13700.0, v1.y-3500.0, v1.z-27400.0),
+                Point3::new(v2.x-13700.0, v2.y-3500.0, v2.z-27400.0),
                 Srgba::new(1.0, 0.0, 0.23, 1.0),
             );
             count +=1;

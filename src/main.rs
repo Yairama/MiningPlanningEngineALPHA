@@ -9,7 +9,7 @@ mod camera_controller;
 mod debug_lines;
 #[path = "./components/components.rs"]
 mod components;
-use crate::components::DXFNodes;
+use crate::components::{DXFNodes, CSVNodes};
 
 use amethyst::{
     controls::{FlyControlBundle,HideCursor},
@@ -17,23 +17,68 @@ use amethyst::{
     input::{is_close_requested, is_key_down, InputBundle, StringBindings,InputEvent},
     prelude::*,
     renderer::{
-        plugins::{RenderDebugLines, RenderSkybox, RenderToWindow},
+        plugins::{RenderDebugLines, RenderSkybox, RenderToWindow, RenderShaded3D},
         types::DefaultBackend,
         RenderingBundle,
     },
     utils::application_root_dir,
     winit::{VirtualKeyCode, MouseButton},
 };
+use amethyst::{
+    assets::{Format as AssetFormat, Handle, Loader},
+    core::{math::Vector3, Transform},
+    ecs::{World, WorldExt},
+    error::Error,
+    prelude::*,
+    renderer::{
+        camera::Camera,
+        light::{Light, PointLight},
+        mtl::{Material, MaterialDefaults},
+        palette::{Srgb, Srgba},
+        rendy::{
+            mesh::{MeshBuilder, Normal, Position, TexCoord},
+            texture::palette::load_from_srgba,
+        },
 
+    },
+};
 
 use amethyst_imgui::RenderImgui;
 use amethyst::winit::{Window, EventsLoop};
 use amethyst::renderer::debug_drawing::{DebugLines, DebugLinesComponent};
 use amethyst::window::ScreenDimensions;
+use amethyst::renderer::{Mesh, RenderBase3D};
+use amethyst::core::frame_limiter::FrameRateLimitStrategy;
+use std::fs::File;
+use amethyst::renderer::pod::DirectionalLight;
 
 
 struct PlanningCore;
 impl SimpleState for PlanningCore {
+    fn on_start(&mut self, mut data: StateData<'_, GameData>) {
+        let StateData { world, .. } = data;
+        world.write_resource::<HideCursor>().hide = false;
+        world.write_resource::<Window>().set_maximized(true);
+        world.register::<DXFNodes>();
+        world.register::<CSVNodes>();
+
+        let light: Light = PointLight {
+            intensity: 1000000.0,
+            radius: 1000.0,
+            color: Srgb::new(1.0, 1.0, 1.0),
+            ..Default::default()
+        }
+            .into();
+
+        let mut transform = Transform::default();
+        transform.set_translation_xyz(5.0, 1000.0, 15.0);
+
+        // Add point light.
+        world.create_entity().with(light).with(transform).build();
+
+        debug_lines::set_debug_lines(world);
+        camera_controller::set_up_camera(world);
+    }
 
     fn handle_event(&mut self, data: StateData<'_, GameData>, event: StateEvent) -> SimpleTrans {
         let StateData { world, .. } = data;
@@ -79,19 +124,6 @@ impl SimpleState for PlanningCore {
         Trans::None
     }
 
-    fn on_start(&mut self, mut data: StateData<'_, GameData>) {
-        let StateData { world, .. } = data;
-        world.write_resource::<HideCursor>().hide = false;
-        world.write_resource::<Window>().set_maximized(true);
-        world.register::<DXFNodes>();
-        world.register::<DebugLinesComponent>();
-        debug_lines::set_debug_lines(world);
-        camera_controller::set_up_camera(world);
-
-
-
-    }
-
 
 }
 
@@ -129,11 +161,14 @@ fn main() -> amethyst::Result<()> {
             RenderingBundle::<DefaultBackend>::new()
                 .with_plugin(RenderToWindow::from_config_path(display_config_path)?)
                 .with_plugin(RenderDebugLines::default())
+                .with_plugin(RenderShaded3D::default())
                 .with_plugin(RenderSkybox::default())
                 .with_plugin(RenderImgui::<StringBindings>::default()),
         )?.with( principal_window_ui::UIPlanningEngine::default(), "imgui_use", &[]);
 
-    let mut game = Application::build(assets_dir, PlanningCore)?.build(game_data)?;
+    let mut game = Application::build(assets_dir, PlanningCore)?
+        .with_frame_limit(FrameRateLimitStrategy::Unlimited, 99999)
+        .build(game_data)?;
     game.run();
     Ok(())
 }

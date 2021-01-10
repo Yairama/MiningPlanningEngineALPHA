@@ -10,6 +10,7 @@ amethyst-imgui = { version = "0.7.1", features = ["vulkan"] }
 log = { version = "0.4.8", features = ["serde"] }
 dxf = "0.4.0"
 amethyst_locale = "0.15.3"
+simple_csv = "0.0.15"
 
 
 [features]
@@ -17,3 +18,4 @@ default = ["vulkan"]
 empty = ["amethyst/empty"]
 metal = ["amethyst/metal"]
 vulkan = ["amethyst/vulkan"]
+profiler = ["amethyst/profiler"]
