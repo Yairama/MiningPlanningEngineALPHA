@@ -24,7 +24,7 @@ For Windows OS:
 cargo run --features vulkan
 ```
 For MAC OS:
-#### NOTE: its necesary to change the library Cargo.tom file
+#### NOTE: its necesary to change the library in Cargo.tom file to change the amethyst-imgui backend from vulkan to metal
 ```
 amethyst-imgui = { version = "0.7.1", features = ["metal"] }
 ```
