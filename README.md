@@ -24,6 +24,11 @@ For Windows OS:
 cargo run --features vulkan
 ```
 For MAC OS:
+#### NOTE: its necesary to change the library Cargo.tom file
+```
+amethyst-imgui = { version = "0.7.1", features = ["metal"] }
+```
+
 ```
 cargo run --features metal
 ```
