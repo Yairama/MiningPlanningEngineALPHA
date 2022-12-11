@@ -1,6 +1,8 @@
 
 # MiningPlanningEngineALPHA
-## NOTE: The repository will be archived to start with a beta dev.
+## **********************************************************************************
+## NOTE: Amethyst engine has been archived, so repo must be migrated to Bevy engine
+## **********************************************************************************
 ## A planning engine for mining engineering
 
 ### How to build
