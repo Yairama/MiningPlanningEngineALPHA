@@ -5,6 +5,20 @@
 ## **********************************************************************************
 ## A planning engine for mining engineering
 
+<p>
+  <a href="https://www.linkedin.com/in/yairama/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" class="icon" width="20" height="20"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/Yairama" rel="nofollow noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" class="icon" width="20" height="20"> Github
+  </a> &nbsp; 
+  <a href="https://github.com/Yairama" rel="nofollow noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="gitlab" class="icon" width="20" height="20"> Gitlab
+  </a>
+</p>
+
+
+
 ### How to build
 
 You need to have a [git][gitLink] version control system installed.
@@ -41,6 +55,7 @@ cargo run --release --features metal/vulkan
 ```
 
 If you have performed the steps correctly, the following window should open
+<video src='https://user-images.githubusercontent.com/45445692/230242974-ea979fba-d829-4ce3-8071-700b6a0a503c.mp4' width=720></video>
 
 ![In-game screenshot](screenshots/2021-01-08.png)
 
@@ -58,4 +73,6 @@ If you have performed the steps correctly, the following window should open:
 
 ![In-game screenshot2](screenshots/2021-01-10.png)
 
-See a detailed video in ```screenshots/Mining Planning Engine 2021-01-10 08-26-18.mp4```
+
+Hope you enjoy this project and feel free to contribute with suggestions and improvements. Thanks for your interest!
+
