@@ -55,7 +55,8 @@ cargo run --release --features metal/vulkan
 ```
 
 If you have performed the steps correctly, the following window should open
-<video src='https://user-images.githubusercontent.com/45445692/230242974-ea979fba-d829-4ce3-8071-700b6a0a503c.mp4' width=720></video>
+
+https://user-images.githubusercontent.com/45445692/230242974-ea979fba-d829-4ce3-8071-700b6a0a503c.mp4
 
 ![In-game screenshot](screenshots/2021-01-08.png)
 
